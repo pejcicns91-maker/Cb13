@@ -1,22 +1,8 @@
 name: grind
 on:
   workflow_dispatch:
-    inputs:
-      task:
-        description: task
-        default: grind
-      budget_minutes:
-        description: minutes
-        default: "330"
-      b4:
-        description: include t2 d4
-        default: "false"
-permissions:
-  contents: write
-concurrency:
-  group: grind-run
-  cancel-in-progress: false
-
+permissions: {contents: write}
+concurrency: {group: grind, cancel-in-progress: false}
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -27,7 +13,7 @@ jobs:
         run: unzip -n "gha bundle.zip"
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy scikit-learn requests
+      - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy requests
       - name: cache wide table
         uses: actions/cache@v4
         with:
@@ -47,18 +33,13 @@ jobs:
             python b_join.py
           fi
       - name: task
-        run: |
-          case "${{ github.event.inputs.task }}" in
-            finalize) python grind1.py --finalize 1 --b4 ${{ github.event.inputs.b4 }} ;;
-            b5)       python b5.py --budget-min ${{ github.event.inputs.budget_minutes }} ;;
-            *)        python grind1.py --budget-min ${{ github.event.inputs.budget_minutes }} --b4 ${{ github.event.inputs.b4 }} ;;
-          esac
+        run: python grind1.py --finalize 1 --b4 0
       - name: commit results
         run: |
           git config user.name "grind-bot"; git config user.email "bot@none"
-          for p in gha_state.json out_counts out_register w1_digest.csv w1_extinction.csv b5_state.json b5_scores.csv; do
+          for p in w1_digest.csv w1_extinction.csv w1_summary.csv; do
             [ -e "$p" ] && git add "$p"
           done
-          git commit -m "chunk [skip ci]" || echo "nothing to commit"
+          git commit -m "finalize [skip ci]" || echo "nothing to commit"
           git pull --rebase || true
           git push
