@@ -1,0 +1,1203 @@
+family,depth,f1,v1,f2,v2,rate,base,n
+bounce,2,station|etype,edge|TRAV,q_rng100_5m,"(0.094, 0.598]",0.902,0.302,604
+bounce,2,station|etype,edge|TRAV,q_zt100_15m,"(38.0, 100.0]",0.897,0.302,369
+bounce,2,station|etype,edge|TRAV,q_rng100_15m,"(0.147, 1.062]",0.894,0.302,654
+bounce,2,station|etype,edge|TRAV,q_zt100_1h,"(28.0, 100.0]",0.893,0.302,328
+bounce,2,station|etype,edge|TRAV,q_rng100_1h,"(0.53, 2.052]",0.879,0.302,828
+bounce,2,station|etype,in_25|TRAV,q_rng100_5m,"(0.094, 0.598]",0.878,0.302,592
+bounce,2,station|etype,faredge|TRAV,q_rng100_5m,"(0.094, 0.598]",0.874,0.302,581
+bounce,2,station|etype,in_25|TRAV,q_rng100_15m,"(0.147, 1.062]",0.874,0.302,660
+bounce,2,station|etype,edge|TRAV,q_zt100_5m,"(37.0, 100.0]",0.872,0.302,437
+bounce,2,station|etype,edge|TRAV,q_zt100_4h,"(20.0, 96.0]",0.867,0.302,483
+bounce,2,station|etype,edge|TRAV,q_rng100_5m,"(0.598, 0.863]",0.866,0.302,864
+bounce,2,station|etype,mid|TRAV,q_rng100_5m,"(0.094, 0.598]",0.862,0.302,594
+bounce,2,station|etype,edge|TRAV,q_rng100_4h,"(2.1990000000000003, 4.196]",0.861,0.302,890
+bounce,2,station|etype,faredge|TRAV,q_rng100_15m,"(0.147, 1.062]",0.859,0.302,658
+bounce,2,station|etype,in_25|TRAV,q_rng100_1h,"(0.53, 2.052]",0.859,0.302,828
+bounce,2,station|etype,mid|TRAV,q_rng100_15m,"(0.147, 1.062]",0.858,0.302,661
+bounce,2,station|etype,in_25|TRAV,q_rng100_5m,"(0.598, 0.863]",0.854,0.302,876
+bounce,2,station|etype,in_75|TRAV,q_rng100_5m,"(0.094, 0.598]",0.853,0.302,597
+bounce,2,station|etype,faredge|TRAV,q_rng100_1h,"(0.53, 2.052]",0.853,0.302,835
+bounce,2,station|etype,edge|TRAV,q_rng100_15m,"(1.062, 1.479]",0.851,0.302,877
+bounce,2,station|etype,edge|TRAV,q_volr_4h,"(0.162, 0.901]",0.851,0.302,872
+bounce,2,station|etype,mid|TRAV,q_rng100_1h,"(0.53, 2.052]",0.846,0.302,829
+bounce,2,station|etype,in_25|TRAV,q_zt100_15m,"(38.0, 100.0]",0.844,0.302,372
+bounce,2,station|etype,in_25|TRAV,q_rng100_4h,"(2.1990000000000003, 4.196]",0.843,0.302,890
+bounce,2,station|etype,edge|TRAV,q_net20_4h,"(-0.889, 0.251]",0.842,0.302,819
+bounce,2,station|etype,in_75|TRAV,q_rng100_15m,"(0.147, 1.062]",0.841,0.302,662
+bounce,2,station|etype,mid|TRAV,q_rng100_5m,"(0.598, 0.863]",0.838,0.302,879
+bounce,2,station|etype,in_75|TRAV,q_rng100_1h,"(0.53, 2.052]",0.838,0.302,833
+bounce,2,station|etype,edge|TRAV,q_rng100_1h,"(2.052, 2.836]",0.838,0.302,868
+bounce,2,station|etype,in_25|TRAV,q_volr_4h,"(0.162, 0.901]",0.837,0.302,870
+bounce,2,station|etype,in_25|TRAV,q_rng100_15m,"(1.062, 1.479]",0.834,0.302,872
+bounce,2,station|etype,mid|TRAV,q_rng100_4h,"(2.1990000000000003, 4.196]",0.83,0.302,892
+bounce,2,station|etype,mid|TRAV,q_volr_4h,"(0.162, 0.901]",0.83,0.302,871
+bounce,2,station|etype,in_25|TRAV,q_zt100_5m,"(37.0, 100.0]",0.83,0.302,452
+bounce,2,station|etype,edge|TRAV,q_net100_1h,"(-0.978, 0.339]",0.829,0.302,795
+bounce,2,station|etype,in_25|TRAV,q_net20_4h,"(-0.889, 0.251]",0.829,0.302,817
+bounce,2,station|etype,in_25|TRAV,q_zt100_1h,"(28.0, 100.0]",0.828,0.302,331
+bounce,2,station|etype,in_75|TRAV,q_rng100_5m,"(0.598, 0.863]",0.827,0.302,869
+bounce,2,station|etype,mid|TRAV,q_rng100_15m,"(1.062, 1.479]",0.827,0.302,875
+bounce,2,station|etype,faredge|TRAV,q_volr_4h,"(0.162, 0.901]",0.826,0.302,868
+bounce,2,station|etype,in_25|TRAV,q_rng100_1h,"(2.052, 2.836]",0.825,0.302,868
+bounce,2,station|etype,faredge|TRAV,q_rng100_15m,"(1.062, 1.479]",0.824,0.302,884
+bounce,2,station|etype,faredge|TRAV,q_rng100_5m,"(0.598, 0.863]",0.823,0.302,860
+bounce,2,station|etype,faredge|TRAV,q_rng100_4h,"(2.1990000000000003, 4.196]",0.823,0.302,892
+bounce,2,station|etype,mid|TRAV,q_net20_4h,"(-0.889, 0.251]",0.819,0.302,819
+bounce,2,station|etype,faredge|TRAV,q_net20_4h,"(-0.889, 0.251]",0.819,0.302,822
+bounce,2,station|etype,mid|TRAV,q_rng100_1h,"(2.052, 2.836]",0.819,0.302,868
+bounce,2,station|etype,edge|TRAV,q_net100_15m,"(-0.66, 0.032]",0.817,0.302,716
+bounce,2,station|etype,in_75|TRAV,q_volr_4h,"(0.162, 0.901]",0.817,0.302,870
+bounce,2,station|etype,in_25|TRAV,q_zt100_4h,"(20.0, 96.0]",0.817,0.302,486
+bounce,2,station|etype,edge|TRAV,q_net100_1h,"(0.339, 1.829]",0.816,0.302,928
+bounce,2,station|etype,in_75|TRAV,q_rng100_15m,"(1.062, 1.479]",0.816,0.302,881
+bounce,2,station|etype,in_75|TRAV,q_rng100_4h,"(2.1990000000000003, 4.196]",0.816,0.302,892
+bounce,2,station|etype,edge|TRAV,q_net20_1h,"(0.015, 0.582]",0.815,0.302,845
+bounce,2,station|etype,edge|TRAV,q_net100_5m,"(-0.013, 0.406]",0.814,0.302,885
+bounce,2,station|etype,edge|TRAV,q_net20_5m,"(-0.011, 0.214]",0.814,0.302,901
+bounce,2,station|etype,edge|TRAV,q_net20_15m,"(-0.013, 0.302]",0.813,0.302,891
+bounce,2,station|etype,in_75|TRAV,q_net20_4h,"(-0.889, 0.251]",0.812,0.302,816
+bounce,2,station|etype,in_25|TRAV,q_net100_1h,"(-0.978, 0.339]",0.811,0.302,795
+bounce,2,station|etype,mid|TRAV,q_net100_1h,"(-0.978, 0.339]",0.808,0.302,801
+bounce,2,station|etype,in_25|TRAV,q_net20_15m,"(-0.013, 0.302]",0.808,0.302,905
+bounce,2,station|etype,edge|TRAV,q_net20_1d,"(-1.759, 0.813]",0.807,0.302,924
+bounce,2,station|etype,faredge|TRAV,q_net100_1h,"(-0.978, 0.339]",0.806,0.302,810
+bounce,2,station|etype,edge|TRAV,q_net100_4h,"(-1.614, 0.854]",0.806,0.302,896
+bounce,2,station|etype,in_75|TRAV,q_rng100_1h,"(2.052, 2.836]",0.806,0.302,864
+bounce,2,station|etype,in_25|TRAV,q_net100_5m,"(-0.013, 0.406]",0.805,0.302,914
+bounce,2,station|etype,edge|TRAV,q_volr_1h,"(0.858, 1.1]",0.804,0.302,899
+bounce,2,station|etype,edge|TRAV,q_net20_15m,"(-0.33, -0.013]",0.803,0.302,860
+bounce,2,station|etype,edge|TRAV,q_rng100_4h,"(4.196, 5.232]",0.803,0.302,930
+bounce,2,station|etype,edge|TRAV,q_net20_1h,"(-0.549, 0.015]",0.801,0.302,815
+bounce,2,station|etype,in_25|TRAV,q_net20_1h,"(0.015, 0.582]",0.8,0.302,851
+bounce,2,station|etype,edge|TRAV,q_net100_5m,"(-0.434, -0.013]",0.799,0.302,824
+bounce,2,station|etype,faredge|TRAV,q_rng100_1h,"(2.052, 2.836]",0.799,0.302,864
+bounce,2,station|etype,edge|TRAV,q_volr_4h,"(0.901, 1.133]",0.799,0.302,1021
+bounce,2,station|etype,in_25|TRAV,q_net100_1h,"(0.339, 1.829]",0.798,0.302,931
+bounce,2,station|etype,in_25|TRAV,q_net20_5m,"(-0.011, 0.214]",0.798,0.302,905
+bounce,2,station|etype,edge|TRAV,q_zt100_4h,"(9.0, 20.0]",0.798,0.302,890
+bounce,2,station|etype,in_25|TRAV,q_net100_15m,"(-0.66, 0.032]",0.797,0.302,730
+bounce,2,station|etype,in_75|TRAV,q_net100_1h,"(-0.978, 0.339]",0.797,0.302,806
+bounce,2,station|etype,in_25|TRAV,q_net20_1d,"(-1.759, 0.813]",0.797,0.302,922
+bounce,2,station|etype,edge|TRAV,q_rng100_15m,"(1.479, 2.158]",0.797,0.302,1059
+bounce,2,station|etype,edge|TRAV,q_net20_5m,"(-0.245, -0.011]",0.796,0.302,972
+bounce,2,station|etype,in_25|TRAV,q_net100_4h,"(-1.614, 0.854]",0.794,0.302,896
+bounce,2,station|etype,edge|TRAV,q_net20_4h,"(0.251, 1.521]",0.794,0.302,934
+bounce,2,station|etype,edge|TRAV,q_pos100_5m,"(0.868, 1.0]",0.793,0.302,835
+bounce,2,station|etype,edge|TRAV,q_net100_15m,"(0.032, 0.711]",0.792,0.302,822
+bounce,2,station|etype,in_25|TRAV,q_volr_1h,"(0.858, 1.1]",0.792,0.302,906
+bounce,2,station|etype,mid|TRAV,q_zt100_4h,"(20.0, 96.0]",0.792,0.302,486
+bounce,2,station|etype,in_25|TRAV,q_rng100_4h,"(4.196, 5.232]",0.791,0.302,930
+bounce,2,station|etype,edge|TRAV,q_zt100_1d,"(18.0, 73.0]",0.791,0.302,755
+bounce,2,station|etype,mid|TRAV,q_net20_15m,"(-0.013, 0.302]",0.789,0.302,914
+bounce,2,station|etype,in_25|TRAV,q_rng100_15m,"(1.479, 2.158]",0.788,0.302,1057
+bounce,2,station|etype,edge|TRAV,q_zt100_1d,"(10.0, 18.0]",0.788,0.302,968
+bounce,2,station|etype,in_25|TRAV,q_zt100_4h,"(9.0, 20.0]",0.787,0.302,888
+bounce,2,station|etype,mid|TRAV,q_net20_5m,"(-0.011, 0.214]",0.786,0.302,908
+bounce,2,station|etype,in_25|TRAV,q_net20_5m,"(-0.245, -0.011]",0.784,0.302,972
+bounce,2,station|etype,in_25|TRAV,q_volr_4h,"(0.901, 1.133]",0.783,0.302,1024
+bounce,2,station|etype,mid|TRAV,q_net100_4h,"(-1.614, 0.854]",0.782,0.302,894
+bounce,2,station|etype,in_25|TRAV,q_pos100_5m,"(0.868, 1.0]",0.782,0.302,818
+bounce,2,station|etype,mid|TRAV,q_volr_1h,"(0.858, 1.1]",0.782,0.302,904
+bounce,2,station|etype,mid|TRAV,q_zt100_15m,"(38.0, 100.0]",0.782,0.302,380
+bounce,2,station|etype,edge|TRAV,q_net20_1d,"(-15.889999999999999, -1.759]",0.781,0.302,1026
+bounce,2,station|etype,faredge|TRAV,q_zt100_5m,"(37.0, 100.0]",0.781,0.302,508
+bounce,2,station|etype,edge|BREAK,q_zt100_15m,"(38.0, 100.0]",0.781,0.302,1886
+bounce,2,station|etype,mid|TRAV,q_rng100_4h,"(4.196, 5.232]",0.78,0.302,927
+bounce,2,station|etype,mid|TRAV,q_zt100_1h,"(28.0, 100.0]",0.78,0.302,337
+bounce,2,station|etype,in_25|TRAV,q_net20_1h,"(-0.549, 0.015]",0.779,0.302,816
+bounce,2,station|etype,mid|TRAV,q_net20_1h,"(0.015, 0.582]",0.779,0.302,854
+bounce,2,station|etype,mid|TRAV,q_net20_1d,"(-1.759, 0.813]",0.779,0.302,922
+bounce,2,station|etype,edge|TRAV,q_rng100_5m,"(0.863, 1.283]",0.779,0.302,1092
+bounce,2,station|etype,mid|TRAV,q_net100_5m,"(-0.013, 0.406]",0.778,0.302,893
+bounce,2,station|etype,edge|TRAV,q_net100_4h,"(-14.446, -1.614]",0.778,0.302,1051
+bounce,2,station|etype,in_75|TRAV,q_volr_1h,"(0.858, 1.1]",0.778,0.302,906
+bounce,2,station|etype,in_25|TRAV,q_net100_5m,"(-0.434, -0.013]",0.777,0.302,820
+bounce,2,station|etype,mid|TRAV,q_net100_1h,"(0.339, 1.829]",0.777,0.302,929
+bounce,2,station|etype,in_25|TRAV,q_net20_4h,"(0.251, 1.521]",0.777,0.302,936
+bounce,2,station|etype,in_25|TRAV,q_net20_15m,"(-0.33, -0.013]",0.776,0.302,844
+bounce,2,station|etype,faredge|TRAV,q_net20_15m,"(-0.013, 0.302]",0.776,0.302,901
+bounce,2,station|etype,faredge|TRAV,q_zt100_4h,"(20.0, 96.0]",0.776,0.302,491
+bounce,2,station|etype,in_25|TRAV,q_zt100_1d,"(10.0, 18.0]",0.776,0.302,968
+bounce,2,station|etype,in_75|TRAV,q_net20_15m,"(-0.013, 0.302]",0.775,0.302,903
+bounce,2,station|etype,faredge|TRAV,q_volr_1h,"(0.858, 1.1]",0.775,0.302,916
+bounce,2,station|etype,mid|TRAV,q_zt100_5m,"(37.0, 100.0]",0.775,0.302,472
+bounce,2,station|etype,mid|TRAV,q_net100_15m,"(-0.66, 0.032]",0.774,0.302,734
+bounce,2,station|etype,faredge|TRAV,q_net20_5m,"(-0.011, 0.214]",0.774,0.302,863
+bounce,2,station|etype,edge|TRAV,q_rng100_1h,"(2.836, 4.139]",0.774,0.302,1114
+bounce,2,station|etype,mid|TRAV,q_volr_4h,"(0.901, 1.133]",0.774,0.302,1019
+bounce,2,station|etype,faredge|TRAV,q_net100_5m,"(-0.013, 0.406]",0.773,0.302,869
+bounce,2,station|etype,in_25|TRAV,q_net100_15m,"(0.032, 0.711]",0.773,0.302,821
+bounce,2,station|etype,faredge|TRAV,q_net20_5m,"(-0.245, -0.011]",0.773,0.302,940
+bounce,2,station|etype,faredge|TRAV,q_net20_1d,"(-1.759, 0.813]",0.773,0.302,926
+bounce,2,station|etype,mid|TRAV,q_rng100_15m,"(1.479, 2.158]",0.773,0.302,1055
+bounce,2,station|etype,mid|TRAV,q_pos100_5m,"(0.868, 1.0]",0.773,0.302,825
+bounce,2,station|etype,mid|TRAV,q_net100_5m,"(-0.434, -0.013]",0.772,0.302,832
+bounce,2,station|etype,faredge|TRAV,q_net100_4h,"(-1.614, 0.854]",0.772,0.302,899
+bounce,2,station|etype,edge|TRAV,q_net100_1d,"(-55.971999999999994, -5.123]",0.772,0.302,1000
+bounce,2,station|etype,edge|TRAV,q_volr_15m,"(0.121, 0.772]",0.772,0.302,859
+bounce,2,station|etype,mid|TRAV,q_zt100_4h,"(9.0, 20.0]",0.772,0.302,890
+bounce,2,station|etype,mid|TRAV,q_net20_5m,"(-0.245, -0.011]",0.771,0.302,959
+bounce,2,station|etype,in_75|TRAV,q_net20_5m,"(-0.245, -0.011]",0.771,0.302,942
+bounce,2,station|etype,faredge|TRAV,q_rng100_4h,"(4.196, 5.232]",0.771,0.302,931
+bounce,2,station|etype,mid|TRAV,q_zt100_1d,"(10.0, 18.0]",0.771,0.302,969
+bounce,2,station|etype,faredge|TRAV,q_net100_1h,"(0.339, 1.829]",0.77,0.302,928
+bounce,2,station|etype,faredge|TRAV,q_net20_1h,"(0.015, 0.582]",0.77,0.302,843
+bounce,2,station|etype,faredge|TRAV,q_zt100_15m,"(38.0, 100.0]",0.77,0.302,408
+bounce,2,station|etype,faredge|TRAV,q_zt100_1h,"(28.0, 100.0]",0.77,0.302,343
+bounce,2,station|etype,in_25|TRAV,q_zt100_1d,"(18.0, 73.0]",0.77,0.302,755
+bounce,2,station|etype,in_75|TRAV,q_net100_1h,"(0.339, 1.829]",0.769,0.302,929
+bounce,2,station|etype,in_75|TRAV,q_net20_5m,"(-0.011, 0.214]",0.769,0.302,885
+bounce,2,station|etype,mid|TRAV,q_net20_1h,"(-0.549, 0.015]",0.769,0.302,818
+bounce,2,station|etype,in_75|TRAV,q_net20_1d,"(-1.759, 0.813]",0.769,0.302,925
+bounce,2,station|etype,in_25|TRAV,q_rng100_5m,"(0.863, 1.283]",0.769,0.302,1091
+bounce,2,station|etype,edge|TRAV,q_pos100_4h,"(-0.001, 0.291]",0.769,0.302,1063
+bounce,2,station|etype,in_75|TRAV,q_net100_5m,"(-0.013, 0.406]",0.768,0.302,889
+bounce,2,station|etype,faredge|TRAV,q_net100_15m,"(-0.66, 0.032]",0.768,0.302,751
+bounce,2,station|etype,in_25|TRAV,q_net100_4h,"(-14.446, -1.614]",0.768,0.302,1052
+bounce,2,station|etype,in_75|TRAV,q_net100_4h,"(-1.614, 0.854]",0.768,0.302,892
+bounce,2,station|etype,in_25|TRAV,q_net20_1d,"(-15.889999999999999, -1.759]",0.768,0.302,1027
+bounce,2,station|etype,faredge|TRAV,q_pos100_5m,"(0.868, 1.0]",0.768,0.302,888
+bounce,2,station|etype,in_75|TRAV,q_rng100_4h,"(4.196, 5.232]",0.767,0.302,929
+bounce,2,station|etype,edge|TRAV,q_pos100_15m,"(0.804, 1.0]",0.767,0.302,1135
+bounce,2,station|etype,edge|TRAV,q_pos100_1d,"(-0.001, 0.239]",0.767,0.302,1036
+bounce,2,station|etype,in_75|TRAV,q_volr_4h,"(0.901, 1.133]",0.766,0.302,1018
+bounce,2,station|etype,mid|TRAV,q_net20_15m,"(-0.33, -0.013]",0.765,0.302,852
+bounce,2,station|etype,faredge|TRAV,q_net20_15m,"(-0.33, -0.013]",0.765,0.302,823
+bounce,2,station|etype,in_25|TRAV,q_rng100_1h,"(2.836, 4.139]",0.765,0.302,1115
+bounce,2,station|etype,in_75|TRAV,q_pos100_5m,"(0.868, 1.0]",0.765,0.302,867
+bounce,2,station|etype,edge|TRAV,q_volr_1h,"(0.206, 0.858]",0.765,0.302,808
+bounce,2,station|etype,mid|TRAV,q_net20_1d,"(-15.889999999999999, -1.759]",0.764,0.302,1027
+bounce,2,station|etype,in_75|TRAV,q_rng100_15m,"(1.479, 2.158]",0.764,0.302,1051
+bounce,2,station|etype,in_25|TRAV,q_volr_15m,"(0.121, 0.772]",0.764,0.302,857
+bounce,2,station|etype,faredge|TRAV,q_volr_4h,"(0.901, 1.133]",0.764,0.302,1019
+bounce,2,station|etype,in_25|TRAV,q_net100_1d,"(-55.971999999999994, -5.123]",0.763,0.302,1000
+bounce,2,station|etype,in_75|TRAV,q_zt100_4h,"(9.0, 20.0]",0.763,0.302,891
+bounce,2,station|etype,mid|TRAV,q_net20_4h,"(0.251, 1.521]",0.762,0.302,937
+bounce,2,station|etype,faredge|TRAV,q_zt100_4h,"(9.0, 20.0]",0.762,0.302,892
+bounce,2,station|etype,in_75|TRAV,q_net20_1h,"(0.015, 0.582]",0.761,0.302,853
+bounce,2,station|etype,edge|TRAV,q_rng100_1d,"(4.098999999999999, 10.661]",0.761,0.302,986
+bounce,2,station|etype,faredge|TRAV,q_net100_5m,"(-0.434, -0.013]",0.76,0.302,810
+bounce,2,station|etype,faredge|TRAV,q_net20_1h,"(-0.549, 0.015]",0.76,0.302,820
+bounce,2,station|etype,in_25|TRAV,q_pos100_4h,"(-0.001, 0.291]",0.76,0.302,1062
+bounce,2,station|etype,mid|TRAV,q_net100_15m,"(0.032, 0.711]",0.759,0.302,822
+bounce,2,station|etype,mid|TRAV,q_rng100_5m,"(0.863, 1.283]",0.759,0.302,1089
+bounce,2,station|etype,faredge|TRAV,q_rng100_15m,"(1.479, 2.158]",0.759,0.302,1053
+bounce,2,station|etype,in_75|TRAV,q_net100_15m,"(-0.66, 0.032]",0.758,0.302,741
+bounce,2,station|etype,in_75|TRAV,q_net20_15m,"(-0.33, -0.013]",0.758,0.302,840
+bounce,2,station|etype,in_75|TRAV,q_net20_1d,"(-15.889999999999999, -1.759]",0.758,0.302,1025
+bounce,2,station|etype,faredge|TRAV,q_net20_1d,"(-15.889999999999999, -1.759]",0.758,0.302,1024
+bounce,2,station|etype,in_75|TRAV,q_zt100_4h,"(20.0, 96.0]",0.758,0.302,487
+bounce,2,station|etype,mid|TRAV,q_net100_4h,"(-14.446, -1.614]",0.757,0.302,1052
+bounce,2,station|etype,faredge|TRAV,q_net100_4h,"(-14.446, -1.614]",0.757,0.302,1049
+bounce,2,station|etype,faredge|TRAV,q_rng100_5m,"(0.863, 1.283]",0.757,0.302,1104
+bounce,2,station|etype,in_25|TRAV,q_pos100_1d,"(-0.001, 0.239]",0.757,0.302,1037
+bounce,2,station|etype,in_75|TRAV,q_zt100_1d,"(10.0, 18.0]",0.757,0.302,970
+bounce,2,station|etype,in_25|TRAV,q_pos100_15m,"(0.804, 1.0]",0.756,0.302,1123
+bounce,2,station|etype,edge|TRAV,q_pos100_1h,"(-0.001, 0.282]",0.756,0.302,1186
+bounce,2,station|etype,edge|TRAV,q_volr_5m,"(0.801, 1.084]",0.755,0.302,946
+bounce,2,station|etype,mid|TRAV,q_rng100_1h,"(2.836, 4.139]",0.754,0.302,1115
+bounce,2,station|etype,edge|TRAV,q_pos100_4h,"(0.291, 0.603]",0.754,0.302,973
+bounce,2,station|etype,in_75|TRAV,q_net100_4h,"(-14.446, -1.614]",0.753,0.302,1052
+bounce,3,station|etype|tn,edge|TRAV|t2,q_rng100_15m,"(0.147, 1.062]",0.977,0.302,131
+bounce,3,station|etype|tn,edge|TRAV|t2,q_rng100_5m,"(0.094, 0.598]",0.974,0.302,115
+bounce,3,station|etype|hayden,edge|TRAV|Chop,q_net20_1h,"(0.015, 0.582]",0.97,0.302,100
+bounce,3,station|etype|q_net100_15m,"edge|TRAV|(-0.66, 0.032]",q_zt100_1h,"(28.0, 100.0]",0.967,0.302,120
+bounce,3,station|etype|q_zt100_15m,"edge|TRAV|(38.0, 100.0]",q_zt100_1d,"(18.0, 73.0]",0.965,0.302,114
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(0.251, 1.521]",q_zt100_5m,"(37.0, 100.0]",0.964,0.302,110
+bounce,3,station|etype|tn,mid|TRAV|t2,q_rng100_15m,"(0.147, 1.062]",0.962,0.302,133
+bounce,3,station|etype|session,edge|TRAV|evening,q_rng100_5m,"(0.094, 0.598]",0.959,0.302,146
+bounce,3,station|etype|dtype,edge|TRAV|normal,q_rng100_5m,"(0.094, 0.598]",0.957,0.302,140
+bounce,3,station|etype|q_net100_1h,"edge|TRAV|(0.339, 1.829]",q_zt100_5m,"(37.0, 100.0]",0.957,0.302,115
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_pos100_15m,"(0.229, 0.519]",0.957,0.302,140
+bounce,3,station|etype|tn,mid|TRAV|t2,q_rng100_5m,"(0.094, 0.598]",0.956,0.302,114
+bounce,3,station|etype|dq,"edge|TRAV|(0.344, 0.625]",q_rng100_15m,"(0.147, 1.062]",0.956,0.302,135
+bounce,3,station|etype|tn,in_25|TRAV|t2,q_rng100_5m,"(0.094, 0.598]",0.955,0.302,112
+bounce,3,station|etype|tn,in_25|TRAV|t2,q_rng100_15m,"(0.147, 1.062]",0.955,0.302,133
+bounce,3,station|etype|q_net100_15m,"edge|TRAV|(-0.66, 0.032]",q_zt100_15m,"(38.0, 100.0]",0.955,0.302,111
+bounce,3,station|etype|q_net20_1h,"in_25|TRAV|(0.015, 0.582]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.955,0.302,199
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_net100_15m,"(-0.66, 0.032]",0.954,0.302,109
+bounce,3,station|etype|q_net20_1h,"edge|TRAV|(0.015, 0.582]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.954,0.302,195
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_net20_4h,"(0.251, 1.521]",0.953,0.302,107
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_zt100_1d,"(18.0, 73.0]",0.953,0.302,129
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_net100_15m,"(-0.66, 0.032]",0.952,0.302,104
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_net20_1h,"(-0.549, 0.015]",0.952,0.302,126
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(0.251, 1.521]",q_zt100_15m,"(38.0, 100.0]",0.952,0.302,104
+bounce,3,station|etype|session,mid|TRAV|evening,q_rng100_5m,"(0.094, 0.598]",0.951,0.302,142
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_pos100_5m,"(0.868, 1.0]",0.951,0.302,183
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(2.052, 2.836]",q_zt100_15m,"(38.0, 100.0]",0.95,0.302,100
+bounce,3,station|etype|q_net20_1h,"edge|TRAV|(0.015, 0.582]",q_zt100_4h,"(20.0, 96.0]",0.949,0.302,138
+bounce,3,station|etype|q_zt100_5m,"edge|TRAV|(37.0, 100.0]",q_zt100_1d,"(18.0, 73.0]",0.949,0.302,117
+bounce,3,station|etype|dq,"edge|TRAV|(0.344, 0.625]",q_rng100_1h,"(0.53, 2.052]",0.948,0.302,135
+bounce,3,station|etype|sq,"edge|TRAV|(0.224, 0.513]",q_rng100_15m,"(0.147, 1.062]",0.948,0.302,154
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_rng100_5m,"(0.094, 0.598]",0.948,0.302,194
+bounce,3,station|etype|tn,in_75|TRAV|t2,q_rng100_5m,"(0.094, 0.598]",0.947,0.302,114
+bounce,3,station|etype|scen_failed,edge|TRAV|F,q_rng100_5m,"(0.094, 0.598]",0.947,0.302,114
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_4h,"(0.603, 0.827]",0.947,0.302,114
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(0.53, 2.052]",q_volr_5m,"(0.086, 0.801]",0.947,0.302,132
+bounce,3,station|etype|origin,edge|TRAV|air,q_rng100_15m,"(0.147, 1.062]",0.945,0.302,128
+bounce,3,station|etype|tn,faredge|TRAV|t2,q_rng100_5m,"(0.094, 0.598]",0.945,0.302,109
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_zt100_4h,"(20.0, 96.0]",0.945,0.302,127
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.598, 0.863]",q_zt100_15m,"(38.0, 100.0]",0.945,0.302,109
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_zt100_1d,"(18.0, 73.0]",0.944,0.302,124
+bounce,3,station|etype|lean,edge|TRAV|down,q_rng100_15m,"(0.147, 1.062]",0.944,0.302,108
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(2.052, 2.836]",q_zt100_15m,"(16.0, 38.0]",0.944,0.302,125
+bounce,3,station|etype|session,in_25|TRAV|evening,q_rng100_5m,"(0.094, 0.598]",0.943,0.302,141
+bounce,3,station|etype|session,in_75|TRAV|evening,q_rng100_5m,"(0.094, 0.598]",0.943,0.302,141
+bounce,3,station|etype|q_net100_15m,"edge|TRAV|(-0.66, 0.032]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.943,0.302,176
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_rng100_1h,"(2.052, 2.836]",0.943,0.302,174
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_rng100_1d,"(4.098999999999999, 10.661]",0.943,0.302,159
+bounce,3,station|etype|q_rng100_4h,"edge|TRAV|(2.1990000000000003, 4.196]",q_volr_15m,"(0.121, 0.772]",0.943,0.302,123
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.942,0.302,241
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_rng100_1h,"(0.53, 2.052]",0.942,0.302,171
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.942,0.302,173
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_zt100_15m,"(38.0, 100.0]",0.942,0.302,103
+bounce,3,station|etype|q_net100_4h,"edge|TRAV|(-1.614, 0.854]",q_net20_1h,"(0.015, 0.582]",0.942,0.302,171
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(0.53, 2.052]",q_zt100_5m,"(13.0, 37.0]",0.942,0.302,103
+bounce,3,station|etype|q_rng100_4h,"edge|TRAV|(5.232, 6.828]",q_zt100_15m,"(38.0, 100.0]",0.942,0.302,104
+bounce,3,station|etype|q_zt100_15m,"edge|TRAV|(38.0, 100.0]",q_zt100_4h,"(20.0, 96.0]",0.942,0.302,154
+bounce,3,station|etype|rq,"in_25|TRAV|(0.549, 0.922]",q_pos100_5m,"(0.868, 1.0]",0.941,0.302,186
+bounce,3,station|etype|kq,"edge|TRAV|(0.063, 0.558]",q_zt100_4h,"(20.0, 96.0]",0.941,0.302,136
+bounce,3,station|etype|q_net100_1h,"edge|TRAV|(0.339, 1.829]",q_zt100_15m,"(38.0, 100.0]",0.941,0.302,102
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(-0.889, 0.251]",q_zt100_5m,"(13.0, 37.0]",0.941,0.302,118
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_1d,"(0.806, 1.0]",0.941,0.302,102
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_volr_4h,"(0.901, 1.133]",0.941,0.302,188
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zlast_1h,"(-0.001, 5.0]",0.941,0.302,287
+bounce,3,station|etype|hayden,edge|TRAV|Chop,q_net20_15m,"(-0.013, 0.302]",0.94,0.302,100
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_rng100_15m,"(0.147, 1.062]",0.94,0.302,284
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_rng100_1h,"(2.052, 2.836]",0.94,0.302,232
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_zt100_4h,"(9.0, 20.0]",0.94,0.302,150
+bounce,3,station|etype|scen_state,in_25|TRAV|dead,q_rng100_15m,"(0.147, 1.062]",0.94,0.302,100
+bounce,3,station|etype|q_net100_15m,"edge|TRAV|(-0.66, 0.032]",q_zt100_5m,"(37.0, 100.0]",0.94,0.302,100
+bounce,3,station|etype|q_net100_4h,"edge|TRAV|(-1.614, 0.854]",q_rng100_15m,"(0.147, 1.062]",0.94,0.302,217
+bounce,3,station|etype|q_net20_5m,"edge|TRAV|(0.214, 9.126]",q_rng100_15m,"(0.147, 1.062]",0.94,0.302,149
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(1.062, 1.479]",q_zt100_5m,"(37.0, 100.0]",0.94,0.302,117
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zt100_15m,"(38.0, 100.0]",0.94,0.302,133
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zlast_15m,"(-0.001, 1.0]",0.94,0.302,200
+bounce,3,station|etype|dq,"edge|TRAV|(0.109, 0.344]",q_rng100_15m,"(0.147, 1.062]",0.939,0.302,148
+bounce,3,station|etype|lean,edge|TRAV|down,q_rng100_1h,"(0.53, 2.052]",0.939,0.302,163
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zt100_4h,"(20.0, 96.0]",0.939,0.302,148
+bounce,3,station|etype|zone,edge|TRAV|3,q_rng100_5m,"(0.598, 0.863]",0.938,0.302,128
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_rng100_15m,"(0.147, 1.062]",0.938,0.302,130
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_rng100_5m,"(0.094, 0.598]",0.938,0.302,225
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_net20_4h,"(-0.889, 0.251]",0.938,0.302,227
+bounce,3,station|etype|kq,"edge|TRAV|(0.558, 0.947]",q_zt100_15m,"(38.0, 100.0]",0.938,0.302,112
+bounce,3,station|etype|q_net20_1h,"edge|TRAV|(-0.549, 0.015]",q_zt100_15m,"(38.0, 100.0]",0.938,0.302,129
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.938,0.302,226
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.938,0.302,258
+bounce,3,station|etype|q_zt100_5m,"edge|TRAV|(37.0, 100.0]",q_zt100_4h,"(20.0, 96.0]",0.938,0.302,145
+bounce,3,station|etype|q_zt100_1h,"edge|TRAV|(28.0, 100.0]",q_zt100_1d,"(18.0, 73.0]",0.938,0.302,113
+bounce,3,station|etype|vq,"edge|TRAV|(0.03, 1.287]",q_rng100_1h,"(2.052, 2.836]",0.937,0.302,205
+bounce,3,station|etype|rq,"faredge|TRAV|(0.004, 0.549]",q_rng100_1h,"(0.53, 2.052]",0.937,0.302,175
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_volr_4h,"(0.162, 0.901]",0.936,0.302,110
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_net100_1h,"(0.339, 1.829]",0.936,0.302,220
+bounce,3,station|etype|q_net100_5m,"edge|TRAV|(-0.013, 0.406]",q_zt100_4h,"(20.0, 96.0]",0.936,0.302,141
+bounce,3,station|etype|q_net100_4h,"in_25|TRAV|(-1.614, 0.854]",q_net20_1h,"(0.015, 0.582]",0.936,0.302,173
+bounce,3,station|etype|q_net100_4h,"edge|TRAV|(-1.614, 0.854]",q_rng100_5m,"(0.094, 0.598]",0.936,0.302,187
+bounce,3,station|etype|q_net20_15m,"in_25|TRAV|(-0.013, 0.302]",q_net20_4h,"(-0.889, 0.251]",0.936,0.302,172
+bounce,3,station|etype|q_net20_15m,"edge|TRAV|(-0.33, -0.013]",q_rng100_15m,"(0.147, 1.062]",0.936,0.302,204
+bounce,3,station|etype|q_net20_1h,"edge|TRAV|(-0.549, 0.015]",q_rng100_5m,"(0.094, 0.598]",0.936,0.302,204
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_1h,"(0.563, 0.797]",0.936,0.302,141
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_pos100_5m,"(0.868, 1.0]",0.936,0.302,187
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zt100_1h,"(13.0, 28.0]",0.936,0.302,110
+bounce,3,station|etype|vq,"edge|TRAV|(0.03, 1.287]",q_pos100_5m,"(0.868, 1.0]",0.935,0.302,139
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_zt100_4h,"(20.0, 96.0]",0.935,0.302,124
+bounce,3,station|etype|dtype,edge|TRAV|normal,q_zt100_15m,"(38.0, 100.0]",0.935,0.302,108
+bounce,3,station|etype|q_net100_1h,"edge|TRAV|(0.339, 1.829]",q_rng100_5m,"(0.094, 0.598]",0.935,0.302,185
+bounce,3,station|etype|q_net20_5m,"edge|TRAV|(-0.245, -0.011]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.935,0.302,215
+bounce,3,station|etype|q_net20_15m,"edge|TRAV|(-0.33, -0.013]",q_zt100_15m,"(38.0, 100.0]",0.935,0.302,124
+bounce,3,station|etype|q_net20_15m,"edge|TRAV|(-0.013, 0.302]",q_zt100_4h,"(20.0, 96.0]",0.935,0.302,124
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zlast_5m,"(-0.001, 4.0]",0.935,0.302,248
+bounce,3,station|etype|tn,faredge|TRAV|t2,q_rng100_15m,"(0.147, 1.062]",0.934,0.302,137
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_net20_1h,"(-0.549, 0.015]",0.934,0.302,229
+bounce,3,station|etype|dtype,edge|TRAV|normal,q_rng100_15m,"(0.147, 1.062]",0.934,0.302,196
+bounce,3,station|etype|q_net20_15m,"edge|TRAV|(0.302, 8.101]",q_rng100_15m,"(0.147, 1.062]",0.934,0.302,122
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(0.251, 1.521]",q_rng100_5m,"(0.094, 0.598]",0.934,0.302,197
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_volr_15m,"(1.015, 1.348]",0.934,0.302,137
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(1.062, 1.479]",q_zt100_15m,"(38.0, 100.0]",0.934,0.302,106
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_rng100_5m,"(0.094, 0.598]",0.933,0.302,120
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_rng100_1h,"(0.53, 2.052]",0.933,0.302,270
+bounce,3,station|etype|scen_failed,faredge|TRAV|F,q_rng100_5m,"(0.094, 0.598]",0.933,0.302,105
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zt100_5m,"(13.0, 37.0]",0.933,0.302,105
+bounce,3,station|etype|q_rng100_15m,"mid|TRAV|(0.147, 1.062]",q_zt100_5m,"(3.0, 13.0]",0.933,0.302,104
+bounce,3,station|etype|q_rng100_4h,"edge|TRAV|(2.1990000000000003, 4.196]",q_zt100_1h,"(5.0, 13.0]",0.933,0.302,164
+bounce,3,station|etype|q_volr_4h,"edge|TRAV|(0.162, 0.901]",q_zt100_15m,"(38.0, 100.0]",0.933,0.302,119
+bounce,3,station|etype|wq,"edge|TRAV|(0.0521, 0.295]",q_net20_4h,"(-0.889, 0.251]",0.932,0.302,147
+bounce,3,station|etype|wq,"edge|TRAV|(0.0521, 0.295]",q_rng100_15m,"(0.147, 1.062]",0.932,0.302,146
+bounce,3,station|etype|hayden,in_25|TRAV|Chop,q_net20_1h,"(0.015, 0.582]",0.932,0.302,103
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_rng100_15m,"(1.062, 1.479]",0.932,0.302,148
+bounce,3,station|etype|q_net100_1h,"edge|TRAV|(-0.978, 0.339]",q_net20_5m,"(-0.011, 0.214]",0.932,0.302,161
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(-0.889, 0.251]",q_volr_15m,"(0.121, 0.772]",0.932,0.302,117
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zt100_1h,"(28.0, 100.0]",0.932,0.302,117
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.598, 0.863]",q_zt100_4h,"(20.0, 96.0]",0.932,0.302,118
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_rng100_1d,"(4.098999999999999, 10.661]",0.932,0.302,148
+bounce,3,station|etype|q_rng100_15m,"in_25|TRAV|(0.147, 1.062]",q_pos100_5m,"(0.868, 1.0]",0.932,0.302,177
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zt100_1d,"(10.0, 18.0]",0.932,0.302,205
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(2.052, 2.836]",q_zt100_5m,"(13.0, 37.0]",0.932,0.302,132
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(2.052, 2.836]",q_zt100_5m,"(37.0, 100.0]",0.932,0.302,118
+bounce,3,station|etype|q_rng100_4h,"in_25|TRAV|(2.1990000000000003, 4.196]",q_volr_15m,"(0.121, 0.772]",0.932,0.302,118
+bounce,3,station|etype|q_rng100_4h,"edge|TRAV|(2.1990000000000003, 4.196]",q_zt100_5m,"(13.0, 37.0]",0.932,0.302,117
+bounce,3,station|etype|q_zt100_15m,"edge|TRAV|(38.0, 100.0]",q_zt100_1h,"(28.0, 100.0]",0.932,0.302,205
+bounce,3,station|coin|etype,edge|SOL|TRAV,q_rng100_15m,"(0.147, 1.062]",0.931,0.302,101
+bounce,3,station|etype|zone,in_25|TRAV|3,q_rng100_5m,"(0.598, 0.863]",0.931,0.302,131
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_volr_1h,"(0.206, 0.858]",0.931,0.302,116
+bounce,3,station|etype|rq,"faredge|TRAV|(0.004, 0.549]",q_net20_4h,"(-0.889, 0.251]",0.931,0.302,130
+bounce,3,station|etype|q_net100_5m,"edge|TRAV|(-0.013, 0.406]",q_rng100_1h,"(0.53, 2.052]",0.931,0.302,216
+bounce,3,station|etype|q_net100_4h,"edge|TRAV|(-1.614, 0.854]",q_zt100_15m,"(38.0, 100.0]",0.931,0.302,101
+bounce,3,station|etype|q_rng100_5m,"faredge|TRAV|(0.094, 0.598]",q_pos100_5m,"(0.868, 1.0]",0.931,0.302,131
+bounce,3,station|etype|q_rng100_5m,"in_25|TRAV|(0.094, 0.598]",q_pos100_15m,"(0.804, 1.0]",0.931,0.302,159
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_4h,"(0.827, 1.0]",0.931,0.302,131
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zt100_1d,"(18.0, 73.0]",0.931,0.302,144
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zlast_15m,"(-0.001, 1.0]",0.931,0.302,247
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zt100_4h,"(20.0, 96.0]",0.931,0.302,173
+bounce,3,station|etype|q_rng100_1h,"edge|TRAV|(0.53, 2.052]",q_zt100_15m,"(38.0, 100.0]",0.931,0.302,116
+bounce,3,station|etype|q_volr_15m,"faredge|TRAV|(0.121, 0.772]",q_volr_4h,"(0.162, 0.901]",0.931,0.302,101
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_net100_15m,"(-0.66, 0.032]",0.93,0.302,187
+bounce,3,station|etype|sq,"in_25|TRAV|(0.224, 0.513]",q_rng100_15m,"(0.147, 1.062]",0.93,0.302,157
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_net20_4h,"(0.251, 1.521]",0.93,0.302,172
+bounce,3,station|etype|dtype,faredge|TRAV|normal,q_rng100_5m,"(0.094, 0.598]",0.93,0.302,143
+bounce,3,station|etype|q_net100_1h,"edge|TRAV|(-0.978, 0.339]",q_zt100_5m,"(13.0, 37.0]",0.93,0.302,114
+bounce,3,station|etype|q_net100_4h,"in_25|TRAV|(-1.614, 0.854]",q_rng100_15m,"(0.147, 1.062]",0.93,0.302,215
+bounce,3,station|etype|q_net20_1h,"edge|TRAV|(-0.549, 0.015]",q_zt100_1h,"(28.0, 100.0]",0.93,0.302,114
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_zt100_1d,"(10.0, 18.0]",0.93,0.302,186
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_volr_5m,"(0.086, 0.801]",0.93,0.302,100
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zt100_1h,"(28.0, 100.0]",0.93,0.302,143
+bounce,3,station|etype|q_rng100_4h,"in_75|TRAV|(2.1990000000000003, 4.196]",q_volr_15m,"(0.121, 0.772]",0.93,0.302,129
+bounce,3,station|etype|zone,edge|TRAV|4,q_net20_1h,"(0.015, 0.582]",0.929,0.302,112
+bounce,3,station|etype|zone,edge|TRAV|4,q_rng100_5m,"(0.094, 0.598]",0.929,0.302,112
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_rng100_15m,"(0.147, 1.062]",0.929,0.302,632
+bounce,3,station|etype|rq,"edge|TRAV|(0.004, 0.549]",q_rng100_15m,"(0.147, 1.062]",0.929,0.302,154
+bounce,3,station|etype|q_net20_4h,"in_75|TRAV|(-0.889, 0.251]",q_volr_15m,"(0.121, 0.772]",0.929,0.302,126
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_5m,"(0.868, 1.0]",0.929,0.302,127
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.598, 0.863]",q_volr_15m,"(1.348, 4.13]",0.929,0.302,156
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_zlast_5m,"(-0.001, 4.0]",0.928,0.302,167
+bounce,3,station|etype|session,faredge|TRAV|evening,q_rng100_5m,"(0.094, 0.598]",0.928,0.302,138
+bounce,3,station|etype|ob55,edge|TRAV|flat,q_zt100_15m,"(38.0, 100.0]",0.928,0.302,181
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_rng100_15m,"(1.062, 1.479]",0.928,0.302,166
+bounce,3,station|etype|q_rng100_15m,"edge|TRAV|(0.147, 1.062]",q_zlast_5m,"(-0.001, 4.0]",0.928,0.302,222
+bounce,3,station|etype|q_rng100_1h,"faredge|TRAV|(0.53, 2.052]",q_volr_5m,"(0.086, 0.801]",0.928,0.302,138
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_net20_1d,"(-1.759, 0.813]",0.927,0.302,395
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_rng100_1h,"(2.052, 2.836]",0.927,0.302,479
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_volr_4h,"(0.162, 0.901]",0.927,0.302,535
+bounce,3,station|etype|rq,"in_25|TRAV|(0.549, 0.922]",q_zlast_4h,"(2.0, 100.0]",0.927,0.302,261
+bounce,3,station|etype|rq,"edge|TRAV|(0.549, 0.922]",q_zlast_4h,"(2.0, 100.0]",0.927,0.302,261
+bounce,3,station|etype|q_net100_5m,"in_25|TRAV|(-0.013, 0.406]",q_net20_4h,"(-0.889, 0.251]",0.927,0.302,178
+bounce,3,station|etype|q_net100_15m,"edge|TRAV|(0.711, 22.385]",q_rng100_5m,"(0.094, 0.598]",0.927,0.302,109
+bounce,3,station|etype|q_net20_4h,"edge|TRAV|(-0.889, 0.251]",q_pos100_4h,"(-0.001, 0.291]",0.927,0.302,218
+bounce,3,station|etype|q_rng100_5m,"edge|TRAV|(0.094, 0.598]",q_pos100_15m,"(0.804, 1.0]",0.927,0.302,164
+bounce,3,station|etype|q_rng100_5m,"in_75|TRAV|(0.094, 0.598]",q_zt100_15m,"(5.0, 16.0]",0.927,0.302,110
+bounce,3,station|etype|q_rng100_5m,"faredge|TRAV|(0.094, 0.598]",q_zt100_15m,"(5.0, 16.0]",0.927,0.302,109
+bounce,3,station|etype|q_pos100_5m,"edge|TRAV|(0.868, 1.0]",q_zt100_4h,"(20.0, 96.0]",0.927,0.302,109
+bounce,3,station|coin|etype,edge|BTC|TRAV,q_rng100_15m,"(0.147, 1.062]",0.926,0.302,175
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_net100_15m,"(-0.66, 0.032]",0.926,0.302,526
+bounce,3,station|etype|wq,"edge|TRAV|(0.295, 1.71]",q_net20_1h,"(-0.549, 0.015]",0.926,0.302,108
+bounce,3,station|etype|wq,"edge|BREAK|(0.295, 1.71]",q_rng100_4h,"(2.1990000000000003, 4.196]",0.926,0.302,488
+bounce,3,station|etype|tn,in_75|TRAV|t2,q_rng100_15m,"(0.147, 1.062]",0.926,0.302,136
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_net100_1h,"(0.339, 1.829]",0.926,0.302,257
+bounce,3,station|etype|dq,"in_25|TRAV|(0.344, 0.625]",q_rng100_15m,"(0.147, 1.062]",0.926,0.302,136
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_rng100_15m,"(1.062, 1.479]",0.926,0.302,272
+bounce,3,station|etype|dq,"edge|TRAV|(-0.001, 0.109]",q_rng100_1h,"(0.53, 2.052]",0.926,0.302,244
+bounce,3,station|etype|rq,"faredge|TRAV|(0.004, 0.549]",q_rng100_15m,"(0.147, 1.062]",0.926,0.302,175
+bounce,3,station|etype|rq,"in_25|TRAV|(0.004, 0.549]",q_zt100_4h,"(9.0, 20.0]",0.926,0.302,149
+bounce,5,station|etype|wq|session|btc_pi,"edge|BREAK|(0.295, 1.71]|evening|down",rq,"(0.549, 0.922]",0.991,0.302,107
+bounce,5,station|etype|wq|kq|yd_arch,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|CHOP",scen_failed,F,0.983,0.302,119
+bounce,5,station|etype|virgin|wq|session,"edge|BREAK|False|(0.295, 1.71]|evening",rq,"(0.549, 0.922]",0.982,0.302,110
+bounce,5,station|etype|virgin|wq|sq,"edge|BREAK|False|(0.295, 1.71]|(0.001, 0.224]",dtype,normal,0.982,0.302,112
+bounce,5,station|etype|cb|wq|session,"edge|BREAK|c>=50|(0.295, 1.71]|evening",rq,"(0.549, 0.922]",0.982,0.302,109
+bounce,5,station|etype|cb|wq|sq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.001, 0.224]",dtype,normal,0.982,0.302,112
+bounce,5,station|etype|wq|wknd|sq,"edge|BREAK|(0.295, 1.71]|False|(0.001, 0.224]",dtype,normal,0.982,0.302,112
+bounce,5,station|etype|wq|btc_pi|sq,"edge|BREAK|(0.295, 1.71]|down|(0.001, 0.224]",dtype,normal,0.982,0.302,112
+bounce,5,station|etype|virgin|wq|ob55,"edge|BREAK|False|(0.295, 1.71]|flat",scen_state,dead,0.978,0.302,134
+bounce,5,station|etype|cb|wq|ob55,"edge|BREAK|c>=50|(0.295, 1.71]|flat",scen_state,dead,0.978,0.302,134
+bounce,5,station|etype|wq|wknd|ob55,"edge|BREAK|(0.295, 1.71]|False|flat",scen_state,dead,0.978,0.302,134
+bounce,5,station|etype|wq|btc_pi|ob55,"edge|BREAK|(0.295, 1.71]|down|flat",scen_state,dead,0.978,0.302,134
+bounce,5,station|etype|wq|ob55|dtype,"edge|BREAK|(0.295, 1.71]|flat|normal",scen_state,dead,0.977,0.302,132
+bounce,5,station|etype|wq|btc_pi|sq,"edge|BREAK|(0.295, 1.71]|down|(0.001, 0.224]",rq,"(0.549, 0.922]",0.975,0.302,120
+bounce,5,station|etype|wq|tn|yd_arch,"edge|BREAK|(0.295, 1.71]|t2|CHOP",ob55,flat,0.974,0.302,116
+bounce,5,station|etype|virgin|dq|sq,"edge|TRAV|False|(0.344, 0.625]|(0.001, 0.224]",rq,"(0.549, 0.922]",0.973,0.302,110
+bounce,5,station|etype|wq|wknd|sq,"edge|BREAK|(0.295, 1.71]|False|(0.001, 0.224]",kq,"(0.063, 0.558]",0.972,0.302,106
+bounce,5,station|etype|wq|kq|uq,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|(-2.577, -0.297]",ob55,flat,0.972,0.302,107
+bounce,5,station|etype|wq|kq|yd_arch,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|CHOP",dtype,normal,0.972,0.302,144
+bounce,5,station|etype|virgin|wq|kq,"edge|BREAK|False|(0.295, 1.71]|(0.063, 0.558]",lean,up,0.971,0.302,105
+bounce,5,station|etype|cb|wq|kq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.063, 0.558]",lean,up,0.971,0.302,105
+bounce,5,station|etype|wq|session|wknd,"edge|BREAK|(0.295, 1.71]|evening|False",ob55,flat,0.971,0.302,102
+bounce,5,station|etype|wq|wknd|kq,"edge|BREAK|(0.295, 1.71]|False|(0.063, 0.558]",lean,up,0.971,0.302,105
+bounce,5,station|etype|wq|btc_pi|kq,"edge|BREAK|(0.295, 1.71]|down|(0.063, 0.558]",lean,up,0.971,0.302,105
+bounce,5,station|etype|wq|kq|dtype,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|normal",lean,up,0.971,0.302,102
+bounce,5,station|etype|virgin|wq|vq,"edge|BREAK|False|(0.295, 1.71]|(0.03, 1.287]",dtype,normal,0.97,0.302,101
+bounce,5,station|etype|cb|wq|vq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.03, 1.287]",dtype,normal,0.97,0.302,101
+bounce,5,station|etype|wq|wknd|vq,"edge|BREAK|(0.295, 1.71]|False|(0.03, 1.287]",dtype,normal,0.97,0.302,101
+bounce,5,station|etype|wq|btc_pi|vq,"edge|BREAK|(0.295, 1.71]|down|(0.03, 1.287]",dtype,normal,0.97,0.302,101
+bounce,5,station|etype|virgin|wq|sq,"edge|BREAK|False|(0.295, 1.71]|(0.001, 0.224]",kq,"(0.063, 0.558]",0.969,0.302,129
+bounce,5,station|etype|cb|wq|sq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.001, 0.224]",kq,"(0.063, 0.558]",0.969,0.302,128
+bounce,5,station|etype|virgin|wq|sq,"edge|BREAK|False|(0.295, 1.71]|(0.001, 0.224]",rq,"(0.549, 0.922]",0.968,0.302,126
+bounce,5,station|etype|cb|wq|sq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.001, 0.224]",rq,"(0.549, 0.922]",0.968,0.302,125
+bounce,5,station|etype|wq|btc_pi|sq,"edge|BREAK|(0.295, 1.71]|down|(0.001, 0.224]",kq,"(0.063, 0.558]",0.967,0.302,120
+bounce,5,station|etype|wq|wknd|vq,"edge|BREAK|(0.295, 1.71]|False|(1.287, 2.095]",kq,"(0.063, 0.558]",0.966,0.302,116
+bounce,5,station|etype|wq|hayden_btc|yd_arch,"edge|BREAK|(0.295, 1.71]|Bear|CHOP",dtype,normal,0.966,0.302,116
+bounce,5,station|etype|virgin|wq|dtype,"edge|BREAK|False|(0.295, 1.71]|normal",scen_state,dead,0.965,0.302,170
+bounce,5,station|etype|cb|wq|dtype,"edge|BREAK|c>=50|(0.295, 1.71]|normal",scen_state,dead,0.965,0.302,170
+bounce,5,station|etype|wq|wknd|hayden,"edge|BREAK|(0.295, 1.71]|False|Bear",uq,"(-0.037, 0.21]",0.965,0.302,114
+bounce,5,station|etype|wq|wknd|dtype,"edge|BREAK|(0.295, 1.71]|False|normal",scen_state,dead,0.965,0.302,170
+bounce,5,station|etype|wq|hayden|yd_arch,"edge|BREAK|(0.295, 1.71]|Bear|CHOP",dtype,normal,0.965,0.302,114
+bounce,5,station|etype|wq|btc_pi|dtype,"edge|BREAK|(0.295, 1.71]|down|normal",scen_state,dead,0.965,0.302,170
+bounce,5,station|etype|wq|tn|kq,"edge|BREAK|(0.295, 1.71]|t1|(0.063, 0.558]",uq,"(-2.577, -0.297]",0.965,0.302,114
+bounce,5,station|etype|wq|wknd|tn,"edge|BREAK|(0.295, 1.71]|False|t2",rq,"(0.549, 0.922]",0.964,0.302,110
+bounce,5,station|etype|wq|yd_arch|lean,"edge|BREAK|(0.295, 1.71]|CHOP|down",scen_failed,F,0.964,0.302,112
+bounce,5,station|coin|etype|wq|tn,"edge|BTC|BREAK|(0.295, 1.71]|t1",kq,"(0.063, 0.558]",0.963,0.302,108
+bounce,5,station|etype|virgin|session|rq,"edge|TRAV|False|us_close|(0.549, 0.922]",ob55,flat,0.963,0.302,109
+bounce,5,station|etype|wq|dq|kq,"edge|BREAK|(0.295, 1.71]|(-0.001, 0.109]|(0.063, 0.558]",yd_arch,CHOP,0.963,0.302,134
+bounce,5,station|etype|wq|rq|kq,"edge|BREAK|(0.295, 1.71]|(0.549, 0.922]|(0.063, 0.558]",ob55,flat,0.963,0.302,109
+bounce,5,station|etype|session|btc_pi|rq,"edge|TRAV|us_close|down|(0.549, 0.922]",ob55,flat,0.963,0.302,109
+bounce,5,station|etype|virgin|wq|kq,"edge|BREAK|False|(0.295, 1.71]|(0.063, 0.558]",scen_failed,F,0.962,0.302,182
+bounce,5,station|etype|virgin|rq|ob55,"edge|TRAV|False|(0.549, 0.922]|flat",scen_state,dead,0.962,0.302,104
+bounce,5,station|etype|cb|wq|kq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.063, 0.558]",scen_failed,F,0.962,0.302,182
+bounce,5,station|etype|cb|wknd|vq,"edge|TRAV|c>=50|False|(0.03, 1.287]",yd_arch,DN,0.962,0.302,104
+bounce,5,station|etype|wq|wknd|kq,"edge|BREAK|(0.295, 1.71]|False|(0.063, 0.558]",scen_failed,F,0.962,0.302,182
+bounce,5,station|etype|wq|btc_pi|kq,"edge|BREAK|(0.295, 1.71]|down|(0.063, 0.558]",uq,"(-2.577, -0.297]",0.962,0.302,158
+bounce,5,station|etype|wq|btc_pi|kq,"edge|BREAK|(0.295, 1.71]|down|(0.063, 0.558]",scen_failed,F,0.962,0.302,182
+bounce,5,station|etype|wq|kq|ob55,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|flat",dtype,normal,0.962,0.302,186
+bounce,5,station|etype|wknd|vq|rq,"edge|TRAV|False|(0.03, 1.287]|(0.004, 0.549]",ob55,flat,0.962,0.302,105
+bounce,5,station|etype|wknd|rq|ob55,"edge|TRAV|False|(0.549, 0.922]|flat",scen_state,dead,0.962,0.302,106
+bounce,5,station|etype|btc_pi|rq|ob55,"edge|TRAV|down|(0.549, 0.922]|flat",scen_state,dead,0.962,0.302,106
+bounce,5,station|coin|etype|wq|wknd,"edge|XRP|BREAK|(0.295, 1.71]|False",kq,"(0.063, 0.558]",0.961,0.302,103
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|3|False|(0.295, 1.71]",origin,air,0.961,0.302,102
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|2|False|(0.295, 1.71]",origin,air,0.961,0.302,102
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|2|c>=50|(0.295, 1.71]",origin,air,0.961,0.302,102
+bounce,5,station|etype|virgin|wq|yd_arch,"edge|BREAK|False|(0.295, 1.71]|CHOP",lean,up,0.961,0.302,127
+bounce,5,station|etype|cb|wq|yd_arch,"edge|BREAK|c>=50|(0.295, 1.71]|CHOP",lean,up,0.961,0.302,127
+bounce,5,station|etype|wq|wknd|yd_arch,"edge|BREAK|(0.295, 1.71]|False|CHOP",lean,up,0.961,0.302,127
+bounce,5,station|etype|wq|hayden_btc|kq,"edge|BREAK|(0.295, 1.71]|Bear|(0.063, 0.558]",ob55,flat,0.961,0.302,155
+bounce,5,station|etype|wq|btc_pi|yd_arch,"edge|BREAK|(0.295, 1.71]|down|CHOP",lean,up,0.961,0.302,127
+bounce,5,station|etype|wq|rq|yd_arch,"edge|BREAK|(0.295, 1.71]|(0.549, 0.922]|CHOP",dtype,normal,0.961,0.302,102
+bounce,5,station|etype|wq|yd_arch|ob55,"edge|BREAK|(0.295, 1.71]|CHOP|flat",dtype,normal,0.961,0.302,207
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|3|c>=50|(0.295, 1.71]",origin,air,0.96,0.302,101
+bounce,5,station|etype|zone|wq|hayden,"edge|BREAK|6|(0.295, 1.71]|Bull",hayden_btc,Bull,0.96,0.302,126
+bounce,5,station|etype|virgin|wq|tn,"edge|BREAK|False|(0.295, 1.71]|t2",ob55,flat,0.96,0.302,177
+bounce,5,station|etype|virgin|wq|yd_arch,"edge|BREAK|False|(0.295, 1.71]|CHOP",scen_state,dead,0.96,0.302,100
+bounce,5,station|etype|cb|wq|tn,"edge|BREAK|c>=50|(0.295, 1.71]|t2",ob55,flat,0.96,0.302,175
+bounce,5,station|etype|cb|wq|yd_arch,"edge|BREAK|c>=50|(0.295, 1.71]|CHOP",scen_state,dead,0.96,0.302,100
+bounce,5,station|etype|wq|wknd|sq,"edge|BREAK|(0.295, 1.71]|False|(0.224, 0.513]",rq,"(0.549, 0.922]",0.96,0.302,100
+bounce,5,station|etype|wq|wknd|yd_arch,"edge|BREAK|(0.295, 1.71]|False|CHOP",scen_state,dead,0.96,0.302,100
+bounce,5,station|etype|wq|hayden|kq,"edge|BREAK|(0.295, 1.71]|Bear|(0.063, 0.558]",yd_arch,CHOP,0.96,0.302,124
+bounce,5,station|etype|wq|btc_pi|tn,"edge|BREAK|(0.295, 1.71]|down|t2",ob55,flat,0.96,0.302,177
+bounce,5,station|etype|wq|btc_pi|yd_arch,"edge|BREAK|(0.295, 1.71]|down|CHOP",scen_state,dead,0.96,0.302,100
+bounce,5,station|etype|wq|rq|yd_arch,"edge|BREAK|(0.295, 1.71]|(0.004, 0.549]|CHOP",dtype,normal,0.96,0.302,101
+bounce,5,station|etype|wq|kq|ob55,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|flat",scen_failed,F,0.96,0.302,151
+bounce,5,station|etype|wq|yd_arch|dtype,"edge|BREAK|(0.295, 1.71]|CHOP|normal",lean,up,0.96,0.302,126
+bounce,5,station|etype|rq|ob55|dtype,"edge|TRAV|(0.549, 0.922]|flat|normal",scen_state,dead,0.96,0.302,100
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|3|False|(0.295, 1.71]",kq,"(0.063, 0.558]",0.959,0.302,121
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|3|c>=50|(0.295, 1.71]",kq,"(0.063, 0.558]",0.959,0.302,121
+bounce,5,station|etype|zone|wq|hayden_btc,"edge|BREAK|6|(0.295, 1.71]|Bull",btc_pi,down,0.959,0.302,121
+bounce,5,station|etype|virgin|cb|vq,"edge|TRAV|False|c>=50|(0.03, 1.287]",yd_arch,DN,0.959,0.302,122
+bounce,5,station|etype|virgin|wq|session,"edge|BREAK|False|(0.295, 1.71]|evening",ob55,flat,0.959,0.302,172
+bounce,5,station|etype|cb|wq|session,"edge|BREAK|c>=50|(0.295, 1.71]|evening",ob55,flat,0.959,0.302,170
+bounce,5,station|etype|wq|session|btc_pi,"edge|BREAK|(0.295, 1.71]|evening|down",ob55,flat,0.959,0.302,172
+bounce,5,station|etype|wq|hayden|hayden_btc,"edge|BREAK|(0.295, 1.71]|Bear|Bear",kq,"(0.063, 0.558]",0.959,0.302,171
+bounce,5,station|etype|wq|hayden_btc|kq,"edge|BREAK|(0.295, 1.71]|Bear|(0.063, 0.558]",yd_arch,CHOP,0.959,0.302,122
+bounce,5,station|etype|wq|kq|dtype,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|normal",scen_failed,F,0.959,0.302,170
+bounce,5,station|etype|virgin|wq|session,"edge|BREAK|False|(0.295, 1.71]|evening",tn,t1,0.958,0.302,119
+bounce,5,station|etype|cb|wq|session,"edge|BREAK|c>=50|(0.295, 1.71]|evening",tn,t1,0.958,0.302,118
+bounce,5,station|etype|wq|session|kq,"edge|BREAK|(0.295, 1.71]|us_open|(0.063, 0.558]",yd_arch,CHOP,0.958,0.302,143
+bounce,5,station|etype|wq|hayden|sq,"edge|BREAK|(0.295, 1.71]|Bear|(0.001, 0.224]",ob55,flat,0.958,0.302,118
+bounce,5,station|etype|wq|yd_arch|ob55,"edge|BREAK|(0.295, 1.71]|CHOP|flat",lean,down,0.958,0.302,120
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|4|False|(0.295, 1.71]",hayden_btc,Bull,0.957,0.302,115
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|4|c>=50|(0.295, 1.71]",hayden_btc,Bull,0.957,0.302,115
+bounce,5,station|etype|virgin|wq|kq,"edge|BREAK|False|(0.295, 1.71]|(0.063, 0.558]",uq,"(-2.577, -0.297]",0.957,0.302,164
+bounce,5,station|etype|virgin|wq|yd_arch,"edge|BREAK|False|(0.295, 1.71]|CHOP",dtype,normal,0.957,0.302,276
+bounce,5,station|etype|virgin|wq|yd_arch,"edge|BREAK|False|(0.295, 1.71]|CHOP",scen_failed,F,0.957,0.302,208
+bounce,5,station|etype|cb|wq|kq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.063, 0.558]",uq,"(-2.577, -0.297]",0.957,0.302,164
+bounce,5,station|etype|cb|wq|yd_arch,"edge|BREAK|c>=50|(0.295, 1.71]|CHOP",dtype,normal,0.957,0.302,276
+bounce,5,station|etype|cb|wq|yd_arch,"edge|BREAK|c>=50|(0.295, 1.71]|CHOP",scen_failed,F,0.957,0.302,208
+bounce,5,station|etype|wq|session|btc_pi,"edge|BREAK|(0.295, 1.71]|evening|down",tn,t1,0.957,0.302,115
+bounce,5,station|etype|wq|wknd|hayden,"edge|BREAK|(0.295, 1.71]|False|Bear",kq,"(0.063, 0.558]",0.957,0.302,187
+bounce,5,station|etype|wq|wknd|tn,"edge|BREAK|(0.295, 1.71]|False|t2",ob55,flat,0.957,0.302,138
+bounce,5,station|etype|wq|wknd|sq,"edge|BREAK|(0.295, 1.71]|False|(0.001, 0.224]",vq,"(0.03, 1.287]",0.957,0.302,116
+bounce,5,station|etype|wq|wknd|kq,"edge|BREAK|(0.295, 1.71]|False|(0.063, 0.558]",uq,"(-2.577, -0.297]",0.957,0.302,139
+bounce,5,station|etype|wq|wknd|yd_arch,"edge|BREAK|(0.295, 1.71]|False|CHOP",dtype,normal,0.957,0.302,276
+bounce,5,station|etype|wq|wknd|yd_arch,"edge|BREAK|(0.295, 1.71]|False|CHOP",scen_failed,F,0.957,0.302,208
+bounce,5,station|etype|wq|btc_pi|yd_arch,"edge|BREAK|(0.295, 1.71]|down|CHOP",dtype,normal,0.957,0.302,276
+bounce,5,station|etype|wq|btc_pi|yd_arch,"edge|BREAK|(0.295, 1.71]|down|CHOP",scen_failed,F,0.957,0.302,208
+bounce,5,station|coin|etype|virgin|wq,"edge|BTC|BREAK|False|(0.295, 1.71]",kq,"(0.063, 0.558]",0.956,0.302,135
+bounce,5,station|coin|etype|cb|wq,"edge|BTC|BREAK|c>=50|(0.295, 1.71]",kq,"(0.063, 0.558]",0.956,0.302,135
+bounce,5,station|etype|zone|wq|btc_pi,"edge|BREAK|3|(0.295, 1.71]|down",kq,"(0.063, 0.558]",0.956,0.302,114
+bounce,5,station|etype|virgin|wq|session,"edge|BREAK|False|(0.295, 1.71]|us_close",dtype,normal,0.956,0.302,113
+bounce,5,station|etype|virgin|wq|kq,"edge|BREAK|False|(0.295, 1.71]|(0.063, 0.558]",dtype,normal,0.956,0.302,229
+bounce,5,station|etype|cb|wq|session,"edge|BREAK|c>=50|(0.295, 1.71]|us_close",dtype,normal,0.956,0.302,113
+bounce,5,station|etype|cb|wq|kq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.063, 0.558]",dtype,normal,0.956,0.302,229
+bounce,5,station|etype|wq|session|wknd,"edge|BREAK|(0.295, 1.71]|us_close|False",dtype,normal,0.956,0.302,113
+bounce,5,station|etype|wq|session|btc_pi,"edge|BREAK|(0.295, 1.71]|us_close|down",dtype,normal,0.956,0.302,113
+bounce,5,station|etype|wq|wknd|kq,"edge|BREAK|(0.295, 1.71]|False|(0.063, 0.558]",dtype,normal,0.956,0.302,229
+bounce,5,station|etype|wq|hayden_btc|rq,"edge|BREAK|(0.295, 1.71]|Bear|(0.549, 0.922]",ob55,flat,0.956,0.302,135
+bounce,5,station|etype|wq|btc_pi|tn,"edge|BREAK|(0.295, 1.71]|down|t2",rq,"(0.549, 0.922]",0.956,0.302,136
+bounce,5,station|etype|wq|btc_pi|kq,"edge|BREAK|(0.295, 1.71]|down|(0.063, 0.558]",dtype,normal,0.956,0.302,229
+bounce,5,station|coin|etype|wq|btc_pi,"edge|BTC|BREAK|(0.295, 1.71]|down",kq,"(0.063, 0.558]",0.955,0.302,111
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|6|False|(0.295, 1.71]",hayden_btc,Bull,0.955,0.302,134
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|6|c>=50|(0.295, 1.71]",hayden_btc,Bull,0.955,0.302,132
+bounce,5,station|etype|zone|wq|hayden_btc,"edge|BREAK|4|(0.295, 1.71]|Bull",btc_pi,down,0.955,0.302,110
+bounce,5,station|etype|virgin|cb|wq,"edge|BREAK|False|c>=50|(0.295, 1.71]",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|virgin|wq|wknd,"edge|BREAK|False|(0.295, 1.71]|False",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|virgin|wq|hayden,"edge|BREAK|False|(0.295, 1.71]|Bear",lean,up,0.955,0.302,111
+bounce,5,station|etype|virgin|wq|btc_pi,"edge|BREAK|False|(0.295, 1.71]|down",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|virgin|wq|rq,"edge|BREAK|False|(0.295, 1.71]|(0.549, 0.922]",dtype,normal,0.955,0.302,176
+bounce,5,station|etype|virgin|rq|kq,"edge|TRAV|False|(0.549, 0.922]|(0.558, 0.947]",ob55,flat,0.955,0.302,133
+bounce,5,station|etype|cb|wq|wknd,"edge|BREAK|c>=50|(0.295, 1.71]|False",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|cb|wq|hayden,"edge|BREAK|c>=50|(0.295, 1.71]|Bear",lean,up,0.955,0.302,111
+bounce,5,station|etype|cb|wq|btc_pi,"edge|BREAK|c>=50|(0.295, 1.71]|down",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|cb|wq|rq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.549, 0.922]",dtype,normal,0.955,0.302,176
+bounce,5,station|etype|cb|btc_pi|vq,"edge|TRAV|c>=50|down|(0.03, 1.287]",yd_arch,DN,0.955,0.302,110
+bounce,5,station|etype|wq|wknd|hayden,"edge|BREAK|(0.295, 1.71]|False|Bear",lean,up,0.955,0.302,111
+bounce,5,station|etype|wq|wknd|btc_pi,"edge|BREAK|(0.295, 1.71]|False|down",scen_state,dead,0.955,0.302,176
+bounce,5,station|etype|wq|wknd|rq,"edge|BREAK|(0.295, 1.71]|False|(0.549, 0.922]",dtype,normal,0.955,0.302,176
+bounce,5,station|etype|wq|hayden|btc_pi,"edge|BREAK|(0.295, 1.71]|Bear|down",lean,up,0.955,0.302,111
+bounce,5,station|etype|wq|hayden|ob55,"edge|BREAK|(0.295, 1.71]|Bear|flat",lean,up,0.955,0.302,111
+bounce,5,station|etype|wq|hayden_btc|ob55,"edge|BREAK|(0.295, 1.71]|Bear|flat",lean,up,0.955,0.302,110
+bounce,5,station|etype|wq|btc_pi|rq,"edge|BREAK|(0.295, 1.71]|down|(0.549, 0.922]",dtype,normal,0.955,0.302,176
+bounce,5,station|etype|wq|tn|kq,"edge|BREAK|(0.295, 1.71]|t1|(0.063, 0.558]",dtype,normal,0.955,0.302,155
+bounce,5,station|etype|btc_pi|sq|vq,"edge|TRAV|down|(0.224, 0.513]|(0.03, 1.287]",ob55,flat,0.955,0.302,111
+bounce,5,station|etype|btc_pi|rq|kq,"edge|TRAV|down|(0.549, 0.922]|(0.558, 0.947]",ob55,flat,0.955,0.302,134
+bounce,5,station|etype|btc_pi|rq|kq,"edge|TRAV|down|(0.549, 0.922]|(0.558, 0.947]",dtype,na,0.955,0.302,110
+bounce,5,station|etype|btc_pi|rq|kq,"edge|TRAV|down|(0.549, 0.922]|(0.558, 0.947]",lean,na,0.955,0.302,110
+bounce,5,station|etype|btc_pi|rq|kq,"edge|TRAV|down|(0.549, 0.922]|(0.558, 0.947]",scen_state,na,0.955,0.302,110
+bounce,5,station|etype|btc_pi|rq|kq,"edge|TRAV|down|(0.549, 0.922]|(0.558, 0.947]",scen_failed,na,0.955,0.302,110
+bounce,5,station|coin|etype|virgin|wq,"edge|ETH|BREAK|False|(0.295, 1.71]",dtype,normal,0.954,0.302,130
+bounce,5,station|coin|etype|cb|wq,"edge|ETH|BREAK|c>=50|(0.295, 1.71]",dtype,normal,0.954,0.302,130
+bounce,5,station|coin|etype|wq|wknd,"edge|ETH|BREAK|(0.295, 1.71]|False",dtype,normal,0.954,0.302,130
+bounce,5,station|coin|etype|wq|btc_pi,"edge|ETH|BREAK|(0.295, 1.71]|down",dtype,normal,0.954,0.302,130
+bounce,5,station|etype|zone|wq|wknd,"edge|BREAK|2|(0.295, 1.71]|False",tn,t1,0.954,0.302,109
+bounce,5,station|etype|wq|hayden|tn,"edge|BREAK|(0.295, 1.71]|Bear|t1",kq,"(0.063, 0.558]",0.954,0.302,152
+bounce,5,station|etype|wq|hayden|dtype,"edge|BREAK|(0.295, 1.71]|Bear|normal",lean,up,0.954,0.302,109
+bounce,5,station|etype|wq|hayden_btc|btc_pi,"edge|BREAK|(0.295, 1.71]|Bear|down",sq,"(0.001, 0.224]",0.954,0.302,131
+bounce,5,station|etype|wq|hayden_btc|dtype,"edge|BREAK|(0.295, 1.71]|Bear|normal",lean,up,0.954,0.302,109
+bounce,5,station|etype|wq|btc_pi|origin,"edge|BREAK|(0.295, 1.71]|down|air",sq,"(0.001, 0.224]",0.954,0.302,130
+bounce,5,station|etype|wq|tn|kq,"edge|BREAK|(0.295, 1.71]|t1|(0.063, 0.558]",yd_arch,CHOP,0.954,0.302,237
+bounce,5,station|etype|wq|tn|yd_arch,"edge|BREAK|(0.295, 1.71]|t1|CHOP",lean,down,0.954,0.302,108
+bounce,5,station|etype|wq|kq|yd_arch,"edge|BREAK|(0.295, 1.71]|(0.063, 0.558]|CHOP",ob55,flat,0.954,0.302,196
+bounce,5,station|etype|wq|yd_arch|dtype,"edge|BREAK|(0.295, 1.71]|CHOP|normal",scen_failed,F,0.954,0.302,197
+bounce,5,station|etype|session|btc_pi|rq,"edge|TRAV|us_close|down|(0.549, 0.922]",yd_arch,CHOP,0.954,0.302,109
+bounce,5,station|etype|tn|dq|sq,"edge|TRAV|t1|(-0.001, 0.109]|(0.224, 0.513]",rq,"(0.004, 0.549]",0.954,0.302,109
+bounce,5,station|coin|etype|wq|hayden,"edge|BTC|BREAK|(0.295, 1.71]|Bear",yd_arch,CHOP,0.953,0.302,106
+bounce,5,station|coin|etype|wq|hayden_btc,"edge|BTC|BREAK|(0.295, 1.71]|Bear",yd_arch,CHOP,0.953,0.302,106
+bounce,5,station|etype|virgin|cb|wq,"edge|TRAV|False|c>=50|(0.295, 1.71]",dq,"(-0.001, 0.109]",0.953,0.302,106
+bounce,5,station|etype|wq|session|yd_arch,"edge|BREAK|(0.295, 1.71]|us_open|CHOP",dtype,normal,0.953,0.302,107
+bounce,5,station|etype|wq|btc_pi|sq,"edge|BREAK|(0.295, 1.71]|down|(0.001, 0.224]",vq,"(0.03, 1.287]",0.953,0.302,170
+bounce,5,station|etype|wq|origin|kq,"edge|BREAK|(0.295, 1.71]|air|(0.063, 0.558]",ob55,flat,0.953,0.302,127
+bounce,5,station|etype|wq|origin|yd_arch,"edge|BREAK|(0.295, 1.71]|air|CHOP",dtype,normal,0.953,0.302,129
+bounce,5,station|etype|wq|tn|kq,"edge|BREAK|(0.295, 1.71]|t1|(0.063, 0.558]",scen_failed,F,0.953,0.302,129
+bounce,5,station|etype|wq|tn|yd_arch,"edge|BREAK|(0.295, 1.71]|t1|CHOP",dtype,normal,0.953,0.302,170
+bounce,5,station|etype|wknd|dq|sq,"edge|TRAV|False|(-0.001, 0.109]|(0.224, 0.513]",ob55,flat,0.953,0.302,127
+bounce,5,station|coin|etype|wq|rq,"edge|BTC|BREAK|(0.295, 1.71]|(0.004, 0.549]",yd_arch,CHOP,0.952,0.302,124
+bounce,5,station|etype|zone|virgin|wq,"edge|BREAK|6|False|(0.295, 1.71]",yd_arch,CHOP,0.952,0.302,104
+bounce,5,station|etype|zone|cb|wq,"edge|BREAK|6|c>=50|(0.295, 1.71]",yd_arch,CHOP,0.952,0.302,104
+bounce,5,station|etype|zone|wq|wknd,"edge|BREAK|3|(0.295, 1.71]|False",kq,"(0.063, 0.558]",0.952,0.302,105
+bounce,5,station|etype|virgin|wq|tn,"edge|BREAK|False|(0.295, 1.71]|t2",rq,"(0.549, 0.922]",0.952,0.302,145
+bounce,5,station|etype|virgin|wq|rq,"edge|BREAK|False|(0.295, 1.71]|(0.549, 0.922]",kq,"(0.063, 0.558]",0.952,0.302,166
+bounce,5,station|etype|virgin|wq|kq,"edge|BREAK|False|(0.295, 1.71]|(0.063, 0.558]",lean,down,0.952,0.302,125
+bounce,5,station|etype|virgin|rq|kq,"edge|TRAV|False|(0.549, 0.922]|(0.558, 0.947]",dtype,na,0.952,0.302,124
+bounce,5,station|etype|virgin|rq|kq,"edge|TRAV|False|(0.549, 0.922]|(0.558, 0.947]",lean,na,0.952,0.302,124
+bounce,5,station|etype|virgin|rq|kq,"edge|TRAV|False|(0.549, 0.922]|(0.558, 0.947]",scen_state,na,0.952,0.302,124
+bounce,5,station|etype|virgin|rq|kq,"edge|TRAV|False|(0.549, 0.922]|(0.558, 0.947]",scen_failed,na,0.952,0.302,124
+bounce,5,station|etype|cb|wq|rq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.549, 0.922]",kq,"(0.063, 0.558]",0.952,0.302,166
+bounce,5,station|etype|cb|wq|kq,"edge|BREAK|c>=50|(0.295, 1.71]|(0.063, 0.558]",lean,down,0.952,0.302,125
+through,1,station,beyond_1.0,q_zlast_5m,"(-0.001, 4.0]",0.715,0.299,2352
+through,1,station,beyond_1.0,q_zlast_15m,"(-0.001, 1.0]",0.689,0.299,2842
+through,2,station|btc_pi,beyond_1.0|up,q_volr_1d,"(0.959, 1.221]",0.898,0.299,118
+through,2,station|zone,beyond_1.0|12,q_zlast_5m,"(-0.001, 4.0]",0.892,0.299,111
+through,2,station|zone,beyond_1.0|12,q_net20_5m,"(-6.503, -0.245]",0.889,0.299,135
+through,2,station|zone,beyond_1.0|12,q_pos100_5m,"(-0.001, 0.149]",0.887,0.299,106
+through,2,station|dtype,beyond_1.0|EXPANSION,q_net100_1d,"(6.787, 24.446]",0.884,0.299,129
+through,2,station|zone,beyond_1.0|12,q_net20_15m,"(-9.517999999999999, -0.33]",0.882,0.299,102
+through,2,station|dtype,beyond_1.0|EXPANSION,q_net100_5m,"(-7.8790000000000004, -0.434]",0.857,0.299,112
+through,2,station|zone,beyond_1.0|10,q_zlast_5m,"(-0.001, 4.0]",0.856,0.299,181
+through,2,station|q_net20_5m,"beyond_1.0|(0.214, 9.126]",q_pos100_5m,"(0.149, 0.502]",0.855,0.299,110
+through,2,station|zone,beyond_1.0|10,q_volr_15m,"(1.348, 4.13]",0.848,0.299,171
+through,2,station|q_volr_1d,"beyond_1.0|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.847,0.299,667
+through,2,station|ob55,beyond_1.0|open,q_zlast_5m,"(-0.001, 4.0]",0.844,0.299,308
+through,2,station|q_net20_5m,"beyond_1.0|(0.214, 9.126]",q_net20_15m,"(-9.517999999999999, -0.33]",0.844,0.299,122
+through,2,station|zone,beyond_0.5|12,q_pos100_4h,"(0.603, 0.827]",0.841,0.299,126
+through,2,station|zone,out_0.25|12,q_pos100_4h,"(0.603, 0.827]",0.839,0.299,137
+through,2,station|zone,beyond_1.0|12,q_zlast_15m,"(-0.001, 1.0]",0.839,0.299,118
+through,2,station|btc_pi,beyond_1.0|na,q_zlast_15m,"(-0.001, 1.0]",0.838,0.299,105
+through,2,station|q_net20_15m,"beyond_1.0|(0.302, 8.101]",q_pos100_5m,"(0.149, 0.502]",0.837,0.299,129
+through,2,station|zone,beyond_0.5|12,q_volr_5m,"(1.469, 4.556]",0.835,0.299,109
+through,2,station|zone,beyond_1.0|10,q_zlast_15m,"(-0.001, 1.0]",0.832,0.299,238
+through,2,station|q_pos100_1d,"beyond_1.0|(0.806, 1.0]",q_zlast_5m,"(-0.001, 4.0]",0.832,0.299,710
+through,2,station|q_volr_5m,"beyond_1.0|(0.086, 0.801]",q_zlast_15m,"(-0.001, 1.0]",0.831,0.299,326
+through,2,station|zone,beyond_0.5|12,q_pos100_1h,"(0.563, 0.797]",0.83,0.299,206
+through,2,station|q_volr_1d,"beyond_1.0|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.83,0.299,814
+through,2,station|zone,beyond_1.0|10,q_volr_1d,"(0.765, 0.959]",0.829,0.299,164
+through,2,station|q_zt100_1d,"beyond_1.0|(-0.001, 3.0]",q_zlast_5m,"(-0.001, 4.0]",0.827,0.299,884
+through,2,station|zone,beyond_0.5|12,q_pos100_15m,"(0.229, 0.519]",0.825,0.299,120
+through,2,station|btc_pi,beyond_1.0|up,q_zt100_15m,"(5.0, 16.0]",0.825,0.299,103
+through,2,station|q_volr_5m,"beyond_1.0|(0.086, 0.801]",q_zlast_5m,"(-0.001, 4.0]",0.825,0.299,286
+through,2,station|zone,beyond_1.0|10,q_net100_1h,"(0.339, 1.829]",0.824,0.299,108
+through,2,station|zone,beyond_1.0|9,q_zlast_5m,"(-0.001, 4.0]",0.824,0.299,233
+through,2,station|q_net100_5m,"beyond_1.0|(-7.8790000000000004, -0.434]",q_pos100_5m,"(0.502, 0.868]",0.823,0.299,175
+through,2,station|zone,beyond_1.0|12,q_volr_1h,"(1.415, 3.637]",0.822,0.299,135
+through,2,station|btc_pi,beyond_0.5|up,q_zlast_5m,"(-0.001, 4.0]",0.822,0.299,157
+through,2,station|q_net100_1d,"beyond_1.0|(6.787, 24.446]",q_zlast_5m,"(-0.001, 4.0]",0.821,0.299,873
+through,2,station|dq,"beyond_1.0|(0.625, 13.23]",q_pos100_15m,"(0.229, 0.519]",0.82,0.299,451
+through,2,station|q_net100_1h,"beyond_0.5|(1.829, 22.804]",q_net20_4h,"(-8.059999999999999, -0.889]",0.82,0.299,128
+through,2,station|q_net100_5m,"beyond_1.0|(-7.8790000000000004, -0.434]",q_net20_5m,"(0.214, 9.126]",0.819,0.299,204
+through,2,station|q_pos100_15m,"beyond_1.0|(0.229, 0.519]",q_volr_1d,"(1.221, 3.098]",0.819,0.299,609
+through,2,station|zone,beyond_0.25|13,q_pos100_1d,"(0.527, 0.806]",0.818,0.299,137
+through,2,station|q_rng100_1h,"beyond_1.0|(4.139, 32.522]",q_zlast_5m,"(-0.001, 4.0]",0.816,0.299,1257
+through,2,station|btc_pi,beyond_1.0|up,q_rng100_15m,"(2.158, 32.041]",0.811,0.299,127
+through,2,station|q_net20_1d,"beyond_1.0|(3.664, 22.598]",q_zlast_5m,"(-0.001, 4.0]",0.807,0.299,1000
+through,2,station|q_volr_4h,"beyond_1.0|(1.473, 3.385]",q_zlast_5m,"(-0.001, 4.0]",0.807,0.299,1143
+through,2,station|zone,beyond_0.5|9,q_pos100_4h,"(0.291, 0.603]",0.806,0.299,124
+through,2,station|zone,beyond_1.0|12,q_zt100_15m,"(16.0, 38.0]",0.805,0.299,200
+through,2,station|ob55,beyond_1.0|open,q_zlast_15m,"(-0.001, 1.0]",0.805,0.299,379
+through,2,station|q_rng100_4h,"beyond_1.0|(6.828, 33.588]",q_zlast_5m,"(-0.001, 4.0]",0.805,0.299,1127
+through,2,station|zone,beyond_0.5|12,q_zt100_1h,"(-0.001, 5.0]",0.804,0.299,158
+through,2,station|q_net20_5m,"beyond_1.0|(-6.503, -0.245]",q_net20_15m,"(0.302, 8.101]",0.804,0.299,148
+through,2,station|q_net100_4h,"beyond_1.0|(3.51, 22.656]",q_zlast_5m,"(-0.001, 4.0]",0.803,0.299,1069
+through,2,station|btc_pi,beyond_1.0|up,q_rng100_1h,"(4.139, 32.522]",0.802,0.299,131
+through,2,station|dq,"beyond_1.0|(0.625, 13.23]",q_pos100_5m,"(0.149, 0.502]",0.801,0.299,381
+through,2,station|zone,beyond_1.0|12,q_pos100_1h,"(0.563, 0.797]",0.8,0.299,115
+through,2,station|btc_pi,beyond_1.0|up,q_net100_4h,"(3.51, 22.656]",0.8,0.299,125
+through,2,station|q_net20_1d,"beyond_1.0|(3.664, 22.598]",q_zlast_15m,"(-0.001, 1.0]",0.8,0.299,1197
+through,2,station|etype,beyond_1.0|STALL,q_pos100_5m,"(0.149, 0.502]",0.798,0.299,218
+through,2,station|q_net100_5m,"beyond_1.0|(0.406, 9.59]",q_net20_5m,"(-6.503, -0.245]",0.798,0.299,188
+through,2,station|q_pos100_5m,"beyond_1.0|(0.149, 0.502]",q_zlast_5m,"(-0.001, 4.0]",0.797,0.299,464
+through,2,station|q_rng100_1d,"beyond_1.0|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.796,0.299,471
+through,2,station|zone,beyond_1.0|12,q_volr_15m,"(0.121, 0.772]",0.795,0.299,161
+through,2,station|btc_pi,beyond_1.0|up,q_zt100_1d,"(-0.001, 3.0]",0.795,0.299,156
+through,2,station|sq,"beyond_1.0|(1.207, 65.153]",q_zlast_5m,"(-0.001, 4.0]",0.795,0.299,836
+through,2,station|etype,beyond_1.0|PEN,q_pos100_15m,"(0.229, 0.519]",0.794,0.299,141
+through,2,station|zone,beyond_1.0|10,q_net20_1h,"(-7.112, -0.549]",0.794,0.299,160
+through,2,station|q_pos100_5m,"beyond_1.0|(0.502, 0.868]",q_zlast_5m,"(-0.001, 4.0]",0.794,0.299,287
+through,2,station|zone,beyond_1.0|10,q_net20_1d,"(0.813, 3.664]",0.793,0.299,135
+through,2,station|zone,beyond_1.0|9,q_zlast_15m,"(-0.001, 1.0]",0.793,0.299,295
+through,2,station|kq,"beyond_1.0|(1.753, 17.486]",q_zlast_5m,"(-0.001, 4.0]",0.793,0.299,1123
+through,2,station|q_volr_15m,"beyond_1.0|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.792,0.299,519
+through,2,station|etype,beyond_0.25|PEN,q_zlast_15m,"(15.0, 100.0]",0.79,0.299,224
+through,2,station|zone,beyond_1.0|10,q_net20_4h,"(0.251, 1.521]",0.79,0.299,119
+through,2,station|btc_pi,beyond_1.0|na,q_rng100_15m,"(2.158, 32.041]",0.79,0.299,290
+through,2,station|etype,beyond_1.0|STALL,q_pos100_15m,"(0.229, 0.519]",0.789,0.299,280
+through,2,station|q_pos100_1d,"beyond_1.0|(0.806, 1.0]",q_zlast_15m,"(-0.001, 1.0]",0.789,0.299,882
+through,2,station|q_rng100_15m,"beyond_1.0|(2.158, 32.041]",q_zlast_5m,"(-0.001, 4.0]",0.788,0.299,1423
+through,2,station|vq,"beyond_1.0|(3.795, 183.902]",q_zlast_5m,"(-0.001, 4.0]",0.786,0.299,1021
+through,2,station|q_pos100_15m,"beyond_1.0|(0.229, 0.519]",q_zlast_5m,"(-0.001, 4.0]",0.785,0.299,493
+through,2,station|q_volr_1h,"beyond_1.0|(1.415, 3.637]",q_zlast_5m,"(-0.001, 4.0]",0.785,0.299,1003
+through,2,station|q_zt100_5m,"beyond_1.0|(3.0, 13.0]",q_zlast_5m,"(-0.001, 4.0]",0.785,0.299,689
+through,2,station|scen_failed,beyond_1.0|T,q_zlast_5m,"(-0.001, 4.0]",0.784,0.299,171
+through,2,station|q_pos100_15m,"beyond_1.0|(0.229, 0.519]",q_volr_1h,"(0.206, 0.858]",0.784,0.299,269
+through,2,station|q_pos100_1h,"beyond_1.0|(0.563, 0.797]",q_zlast_5m,"(-0.001, 4.0]",0.783,0.299,599
+through,2,station|zone,beyond_0.5|11,q_rng100_5m,"(1.283, 18.167]",0.782,0.299,473
+through,2,station|q_net100_1d,"beyond_1.0|(6.787, 24.446]",q_zlast_15m,"(-0.001, 1.0]",0.782,0.299,1076
+through,2,station|q_pos100_15m,"beyond_1.0|(0.229, 0.519]",q_zlast_15m,"(-0.001, 1.0]",0.782,0.299,564
+through,2,station|ob55,beyond_1.0|open,q_pos100_5m,"(0.149, 0.502]",0.781,0.299,169
+through,2,station|zone,beyond_0.5|11,q_volr_15m,"(1.348, 4.13]",0.78,0.299,127
+through,2,station|q_net20_5m,"beyond_1.0|(-0.245, -0.011]",q_zlast_15m,"(-0.001, 1.0]",0.78,0.299,127
+through,2,station|q_pos100_5m,"beyond_1.0|(0.502, 0.868]",q_zlast_15m,"(-0.001, 1.0]",0.78,0.299,327
+through,2,station|q_volr_15m,"beyond_1.0|(0.772, 1.015]",q_zlast_15m,"(-0.001, 1.0]",0.78,0.299,656
+through,2,station|zone,beyond_1.0|13,q_zt100_15m,"(5.0, 16.0]",0.779,0.299,104
+through,2,station|btc_pi,beyond_1.0|up,q_net20_1d,"(3.664, 22.598]",0.779,0.299,163
+through,2,station|q_net20_5m,"beyond_1.0|(-0.245, -0.011]",q_zlast_5m,"(-0.001, 4.0]",0.779,0.299,122
+through,2,station|zone,beyond_0.5|12,q_pos100_1d,"(0.527, 0.806]",0.778,0.299,153
+through,2,station|q_rng100_1h,"beyond_1.0|(4.139, 32.522]",q_zlast_15m,"(-0.001, 1.0]",0.778,0.299,1493
+through,2,station|zone,beyond_0.5|12,q_zlast_5m,"(-0.001, 4.0]",0.777,0.299,349
+through,2,station|q_net100_5m,"beyond_1.0|(-7.8790000000000004, -0.434]",q_net20_1h,"(0.582, 12.797]",0.777,0.299,403
+through,2,station|q_net100_5m,"beyond_1.0|(-0.434, -0.013]",q_zlast_5m,"(-0.001, 4.0]",0.777,0.299,229
+through,2,station|q_net100_4h,"beyond_1.0|(3.51, 22.656]",q_zlast_15m,"(-0.001, 1.0]",0.777,0.299,1285
+through,2,station|zone,beyond_1.0|10,q_rng100_1d,"(4.098999999999999, 10.661]",0.776,0.299,170
+through,2,station|zone,beyond_1.0|10,q_pos100_5m,"(0.502, 0.868]",0.775,0.299,120
+through,2,station|btc_pi,beyond_0.5|up,q_volr_4h,"(1.473, 3.385]",0.775,0.299,151
+through,2,station|sq,"beyond_1.0|(1.207, 65.153]",q_zlast_15m,"(-0.001, 1.0]",0.775,0.299,987
+through,2,station|q_volr_4h,"beyond_1.0|(1.473, 3.385]",q_zlast_15m,"(-0.001, 1.0]",0.775,0.299,1349
+through,2,station|q_zt100_1d,"beyond_1.0|(-0.001, 3.0]",q_zlast_15m,"(-0.001, 1.0]",0.775,0.299,1122
+through,2,station|etype,beyond_1.0|PEN,q_zlast_5m,"(-0.001, 4.0]",0.774,0.299,252
+through,2,station|etype,beyond_1.0|PEN,q_zlast_15m,"(-0.001, 1.0]",0.774,0.299,287
+through,2,station|uq,"beyond_1.0|(0.21, 0.89]",q_zlast_5m,"(-0.001, 4.0]",0.774,0.299,553
+through,2,station|zone,out_1.0|13,q_net100_15m,"(0.711, 22.385]",0.773,0.299,185
+through,2,station|zone,beyond_1.0|11,q_rng100_1d,"(10.661, 13.269]",0.772,0.299,162
+through,2,station|q_pos100_1h,"beyond_1.0|(0.563, 0.797]",q_zlast_15m,"(-0.001, 1.0]",0.772,0.299,681
+through,2,station|zone,beyond_0.5|12,q_rng100_5m,"(1.283, 18.167]",0.77,0.299,408
+through,2,station|wknd,beyond_1.0|True,q_pos100_15m,"(0.229, 0.519]",0.77,0.299,409
+through,2,station|tn,beyond_1.0|t3+,q_zlast_5m,"(-0.001, 4.0]",0.77,0.299,923
+through,2,station|scen_failed,beyond_1.0|T,q_zlast_15m,"(-0.001, 1.0]",0.77,0.299,209
+through,2,station|q_rng100_1h,"beyond_1.0|(4.139, 32.522]",q_zlast_4h,"(2.0, 100.0]",0.77,0.299,456
+through,2,station|q_rng100_1d,"beyond_1.0|(10.661, 13.269]",q_zlast_15m,"(-0.001, 1.0]",0.77,0.299,609
+through,2,station|etype,beyond_0.25|PEN,q_zlast_1h,"(5.0, 100.0]",0.769,0.299,264
+through,2,station|zone,beyond_1.0|11,q_zlast_1d,"(1.0, 100.0]",0.769,0.299,108
+through,2,station|q_pos100_15m,"beyond_1.0|(0.519, 0.804]",q_zlast_5m,"(-0.001, 4.0]",0.769,0.299,472
+through,2,station|wq,"beyond_1.0|(0.0521, 0.295]",q_pos100_15m,"(0.229, 0.519]",0.768,0.299,452
+through,2,station|zone,beyond_1.0|13,q_net100_1d,"(6.787, 24.446]",0.767,0.299,159
+through,2,station|q_pos100_5m,"beyond_1.0|(0.149, 0.502]",q_zlast_15m,"(-0.001, 1.0]",0.767,0.299,562
+through,2,station|zone,out_1.0|13,q_net100_5m,"(0.406, 9.59]",0.766,0.299,124
+through,2,station|zone,beyond_1.0|7,q_zlast_5m,"(-0.001, 4.0]",0.766,0.299,188
+through,2,station|origin,beyond_1.0|air,q_zlast_5m,"(-0.001, 4.0]",0.766,0.299,1118
+through,2,station|vq,"beyond_1.0|(3.795, 183.902]",q_zlast_15m,"(-0.001, 1.0]",0.766,0.299,1133
+through,2,station|ob55,beyond_1.0|open_fired,q_zlast_5m,"(-0.001, 4.0]",0.766,0.299,457
+through,2,station|zone,beyond_1.0|12,q_rng100_1d,"(17.561, 63.627]",0.765,0.299,149
+through,2,station|q_rng100_4h,"beyond_1.0|(6.828, 33.588]",q_zlast_15m,"(-0.001, 1.0]",0.765,0.299,1372
+through,2,station|q_volr_1h,"beyond_1.0|(1.415, 3.637]",q_zlast_15m,"(-0.001, 1.0]",0.765,0.299,1195
+through,2,station|zone,beyond_1.0|13,q_zt100_1d,"(-0.001, 3.0]",0.764,0.299,161
+through,2,station|btc_pi,beyond_0.5|up,q_zlast_15m,"(-0.001, 1.0]",0.764,0.299,199
+through,2,station|rq,"beyond_1.0|(1.451, 16.357]",q_zlast_5m,"(-0.001, 4.0]",0.764,0.299,1201
+through,2,station|q_net100_1h,"beyond_1.0|(1.829, 22.804]",q_zlast_5m,"(-0.001, 4.0]",0.764,0.299,1095
+through,2,station|zone,beyond_1.0|13,q_volr_1d,"(1.221, 3.098]",0.763,0.299,114
+through,2,station|btc_pi,beyond_1.0|up,q_net20_5m,"(-6.503, -0.245]",0.763,0.299,118
+through,2,station|btc_pi,beyond_0.5|up,q_volr_1d,"(0.959, 1.221]",0.763,0.299,156
+through,2,station|zone,beyond_0.25|11,q_volr_15m,"(1.348, 4.13]",0.762,0.299,147
+through,2,station|q_net20_5m,"beyond_1.0|(-0.011, 0.214]",q_pos100_15m,"(0.229, 0.519]",0.762,0.299,172
+through,2,station|zone,out_0.25|12,q_net100_5m,"(-7.8790000000000004, -0.434]",0.761,0.299,138
+through,2,station|zone,beyond_1.0|10,q_volr_1h,"(1.415, 3.637]",0.761,0.299,276
+through,2,station|zone,beyond_1.0|7,q_zlast_15m,"(-0.001, 1.0]",0.761,0.299,264
+through,2,station|scen_state,beyond_1.0|dead,q_zlast_5m,"(-0.001, 4.0]",0.76,0.299,275
+through,2,station|zone,beyond_1.0|12,q_rng100_1d,"(13.269, 17.561]",0.759,0.299,116
+through,2,station|q_net100_5m,"beyond_1.0|(-7.8790000000000004, -0.434]",q_pos100_15m,"(0.519, 0.804]",0.759,0.299,357
+through,2,station|q_net100_15m,"beyond_1.0|(0.032, 0.711]",q_rng100_15m,"(2.158, 32.041]",0.759,0.299,565
+through,2,station|q_net100_15m,"beyond_1.0|(0.032, 0.711]",q_zlast_15m,"(-0.001, 1.0]",0.759,0.299,332
+through,2,station|q_volr_5m,"beyond_1.0|(0.801, 1.084]",q_zlast_5m,"(-0.001, 4.0]",0.759,0.299,336
+through,2,station|dq,"beyond_1.0|(0.625, 13.23]",q_zlast_5m,"(-0.001, 4.0]",0.758,0.299,991
+through,2,station|zone,mid|12,q_pos100_4h,"(0.603, 0.827]",0.757,0.299,152
+through,2,station|zone,edge|12,q_pos100_4h,"(0.603, 0.827]",0.757,0.299,152
+through,2,station|zone,beyond_1.0|11,q_volr_15m,"(1.348, 4.13]",0.757,0.299,111
+through,2,station|btc_pi,beyond_1.0|up,q_rng100_1d,"(10.661, 13.269]",0.757,0.299,140
+through,2,station|rq,"beyond_1.0|(1.451, 16.357]",q_zlast_15m,"(-0.001, 1.0]",0.757,0.299,1333
+through,2,station|kq,"beyond_1.0|(1.753, 17.486]",q_pos100_15m,"(0.229, 0.519]",0.757,0.299,898
+through,2,station|q_rng100_15m,"beyond_1.0|(2.158, 32.041]",q_zlast_15m,"(-0.001, 1.0]",0.757,0.299,1690
+through,2,station|q_zt100_15m,"beyond_1.0|(16.0, 38.0]",q_zlast_5m,"(-0.001, 4.0]",0.757,0.299,675
+through,2,station|zone,beyond_1.0|12,q_zt100_4h,"(4.0, 9.0]",0.756,0.299,160
+through,2,station|q_net100_1d,"beyond_1.0|(1.529, 6.787]",q_zlast_5m,"(-0.001, 4.0]",0.756,0.299,471
+through,2,station|zone,beyond_1.0|10,q_zt100_15m,"(5.0, 16.0]",0.754,0.299,280
+through,2,station|wq,"beyond_1.0|(0.0521, 0.295]",q_zlast_15m,"(-0.001, 1.0]",0.754,0.299,707
+through,2,station|btc_pi,beyond_0.5|up,q_rng100_5m,"(1.283, 18.167]",0.754,0.299,195
+through,2,station|q_rng100_5m,"beyond_1.0|(1.283, 18.167]",q_pos100_5m,"(0.149, 0.502]",0.754,0.299,838
+through,2,station|q_pos100_4h,"beyond_1.0|(0.827, 1.0]",q_zlast_5m,"(-0.001, 4.0]",0.754,0.299,707
+through,2,station|q_zt100_1h,"beyond_1.0|(13.0, 28.0]",q_zlast_5m,"(-0.001, 4.0]",0.754,0.299,573
+through,2,station|zone,in_25|12,q_pos100_4h,"(0.603, 0.827]",0.753,0.299,150
+through,2,station|zone,beyond_1.0|10,q_volr_5m,"(0.801, 1.084]",0.753,0.299,170
+through,2,station|q_net20_15m,"beyond_1.0|(-9.517999999999999, -0.33]",q_zlast_5m,"(-0.001, 4.0]",0.753,0.299,1079
+through,2,station|etype,beyond_1.0|PEN,q_net20_1h,"(-0.549, 0.015]",0.752,0.299,125
+through,2,station|zone,beyond_0.5|12,q_zt100_15m,"(5.0, 16.0]",0.752,0.299,218
+through,2,station|virgin,beyond_1.0|True,q_zlast_15m,"(-0.001, 1.0]",0.752,0.299,101
+through,2,station|origin,beyond_1.0|Z9,q_zt100_5m,"(3.0, 13.0]",0.752,0.299,113
+through,2,station|q_net100_15m,"beyond_1.0|(0.032, 0.711]",q_zlast_5m,"(-0.001, 4.0]",0.752,0.299,286
+through,2,station|q_net20_15m,"beyond_1.0|(-0.33, -0.013]",q_pos100_5m,"(0.502, 0.868]",0.752,0.299,101
+through,2,station|q_rng100_5m,"beyond_1.0|(1.283, 18.167]",q_zlast_5m,"(-0.001, 4.0]",0.752,0.299,1886
+through,2,station|wq,"beyond_1.0|(0.0521, 0.295]",q_zlast_5m,"(-0.001, 4.0]",0.75,0.299,603
+through,2,station|kq,"beyond_1.0|(1.753, 17.486]",q_zlast_15m,"(-0.001, 1.0]",0.75,0.299,1326
+through,2,station|q_rng100_4h,"beyond_1.0|(6.828, 33.588]",q_volr_1h,"(1.415, 3.637]",0.75,0.299,1793
+through,2,station|q_pos100_1h,"beyond_1.0|(0.282, 0.563]",q_zlast_5m,"(-0.001, 4.0]",0.75,0.299,505
+through,2,station|q_zt100_1h,"beyond_1.0|(13.0, 28.0]",q_zlast_15m,"(-0.001, 1.0]",0.75,0.299,752
+through,2,station|q_net20_4h,"beyond_1.0|(0.251, 1.521]",q_zlast_5m,"(-0.001, 4.0]",0.749,0.299,414
+through,2,station|q_pos100_15m,"beyond_1.0|(0.519, 0.804]",q_zlast_15m,"(-0.001, 1.0]",0.749,0.299,558
+through,2,station|q_zt100_5m,"beyond_1.0|(3.0, 13.0]",q_zlast_15m,"(-0.001, 1.0]",0.749,0.299,857
+through,2,station|zone,beyond_1.0|10,q_rng100_4h,"(5.232, 6.828]",0.748,0.299,139
+through,2,station|hayden_btc,beyond_1.0|Chop,q_zlast_15m,"(-0.001, 1.0]",0.748,0.299,242
+through,2,station|q_net20_4h,"beyond_1.0|(1.521, 22.137]",q_zlast_5m,"(-0.001, 4.0]",0.748,0.299,1083
+through,2,station|coin,beyond_1.0|XRP,q_pos100_15m,"(0.229, 0.519]",0.747,0.299,727
+through,2,station|etype,beyond_1.0|STALL,q_zlast_5m,"(-0.001, 4.0]",0.747,0.299,501
+through,2,station|zone,beyond_0.5|12,q_pos100_5m,"(0.149, 0.502]",0.747,0.299,150
+through,2,station|hayden_btc,beyond_1.0|Chop,q_pos100_15m,"(0.229, 0.519]",0.747,0.299,190
+through,2,station|q_net100_5m,"beyond_0.5|(0.406, 9.59]",q_net20_15m,"(-9.517999999999999, -0.33]",0.747,0.299,170
+through,2,station|q_net20_1h,"beyond_1.0|(0.582, 12.797]",q_zlast_5m,"(-0.001, 4.0]",0.747,0.299,801
+through,2,station|q_pos100_5m,"beyond_1.0|(0.149, 0.502]",q_volr_1d,"(1.221, 3.098]",0.747,0.299,384
+through,2,station|q_zt100_4h,"beyond_1.0|(-0.001, 4.0]",q_zlast_5m,"(-0.001, 4.0]",0.747,0.299,859
+through,2,station|zone,beyond_1.0|10,q_net100_5m,"(-7.8790000000000004, -0.434]",0.746,0.299,366
+through,2,station|zone,beyond_0.25|12,q_pos100_4h,"(0.603, 0.827]",0.746,0.299,122
+through,2,station|session,beyond_1.0|eu,q_zlast_5m,"(-0.001, 4.0]",0.746,0.299,319
+through,2,station|hayden_btc,beyond_1.0|Chop,q_rng100_1h,"(4.139, 32.522]",0.746,0.299,409
+through,3,station|ob55|q_volr_1d,"beyond_1.0|open_fired|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.992,0.299,127
+through,3,station|q_volr_5m|q_volr_15m,"beyond_1.0|(0.801, 1.084]|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.991,0.299,107
+through,3,station|q_volr_5m|q_volr_1d,"beyond_1.0|(0.086, 0.801]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.991,0.299,108
+through,3,station|zone|q_zt100_1d,"beyond_1.0|10|(-0.001, 3.0]",q_zlast_5m,"(-0.001, 4.0]",0.99,0.299,102
+through,3,station|ob55|q_volr_1d,"beyond_1.0|open_fired|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.988,0.299,162
+through,3,station|q_volr_5m|q_zt100_1h,"beyond_1.0|(0.086, 0.801]|(13.0, 28.0]",q_zlast_15m,"(-0.001, 1.0]",0.98,0.299,100
+through,3,station|ob55|q_net20_1h,"beyond_1.0|open_fired|(-7.112, -0.549]",q_zlast_15m,"(-0.001, 1.0]",0.975,0.299,119
+through,3,station|q_volr_5m|q_volr_1d,"beyond_1.0|(0.086, 0.801]|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.972,0.299,107
+through,3,station|zone|yd_arch,beyond_1.0|12|UP,q_zt100_15m,"(16.0, 38.0]",0.971,0.299,102
+through,3,station|hayden_btc|q_rng100_1h,"beyond_1.0|Chop|(4.139, 32.522]",q_zlast_15m,"(-0.001, 1.0]",0.971,0.299,102
+through,3,station|q_net100_5m|q_net100_15m,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.711, 22.385]",q_volr_1d,"(1.221, 3.098]",0.968,0.299,190
+through,3,station|q_net100_15m|q_rng100_15m,"beyond_1.0|(0.032, 0.711]|(2.158, 32.041]",q_zlast_15m,"(-0.001, 1.0]",0.968,0.299,157
+through,3,station|hayden_btc|uq,"beyond_1.0|Chop|(-2.577, -0.297]",q_net20_1d,"(3.664, 22.598]",0.966,0.299,118
+through,3,station|q_volr_5m|q_zt100_4h,"beyond_1.0|(0.086, 0.801]|(4.0, 9.0]",q_zlast_5m,"(-0.001, 4.0]",0.966,0.299,117
+through,3,station|q_net100_15m|q_rng100_15m,"beyond_1.0|(0.032, 0.711]|(2.158, 32.041]",q_zlast_5m,"(-0.001, 4.0]",0.962,0.299,133
+through,3,station|zone|q_net100_5m,"beyond_1.0|10|(-7.8790000000000004, -0.434]",q_zt100_15m,"(5.0, 16.0]",0.961,0.299,102
+through,3,station|q_pos100_1h|q_pos100_1d,"beyond_1.0|(0.563, 0.797]|(0.806, 1.0]",q_zlast_5m,"(-0.001, 4.0]",0.961,0.299,255
+through,3,station|hayden_btc|q_rng100_4h,"beyond_1.0|Chop|(6.828, 33.588]",q_zlast_15m,"(-0.001, 1.0]",0.96,0.299,100
+through,3,station|q_net100_5m|q_net20_1h,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.582, 12.797]",q_volr_1d,"(1.221, 3.098]",0.96,0.299,150
+through,3,station|q_pos100_15m|q_volr_5m,"beyond_1.0|(0.229, 0.519]|(0.086, 0.801]",q_volr_1d,"(1.221, 3.098]",0.959,0.299,196
+through,3,station|hayden_btc|uq,"beyond_1.0|Chop|(-2.577, -0.297]",q_net100_4h,"(3.51, 22.656]",0.958,0.299,119
+through,3,station|btc_pi|q_rng100_1d,"beyond_0.5|up|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.957,0.299,115
+through,3,station|q_volr_1h|q_volr_1d,"beyond_1.0|(1.415, 3.637]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.957,0.299,209
+through,3,station|btc_pi|q_rng100_15m,"beyond_1.0|na|(2.158, 32.041]",q_zt100_15m,"(16.0, 38.0]",0.955,0.299,110
+through,3,station|q_pos100_15m|q_volr_5m,"beyond_1.0|(0.229, 0.519]|(0.086, 0.801]",q_zlast_5m,"(-0.001, 4.0]",0.955,0.299,112
+through,3,station|q_pos100_15m|q_volr_1h,"beyond_1.0|(0.229, 0.519]|(0.206, 0.858]",q_volr_1d,"(1.221, 3.098]",0.955,0.299,154
+through,3,station|q_volr_1d|q_zt100_15m,"beyond_1.0|(1.221, 3.098]|(16.0, 38.0]",q_zlast_5m,"(-0.001, 4.0]",0.951,0.299,226
+through,3,station|ob55|q_pos100_5m,"beyond_1.0|open|(0.149, 0.502]",q_zlast_15m,"(-0.001, 1.0]",0.95,0.299,101
+through,3,station|q_net100_5m|q_pos100_15m,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.519, 0.804]",q_volr_1d,"(1.221, 3.098]",0.95,0.299,120
+through,3,station|q_net100_5m|q_volr_5m,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.086, 0.801]",q_zlast_15m,"(-0.001, 1.0]",0.95,0.299,121
+through,3,station|wq|q_pos100_1h,"beyond_1.0|(0.0521, 0.295]|(0.563, 0.797]",q_zlast_5m,"(-0.001, 4.0]",0.949,0.299,176
+through,3,station|dq|q_pos100_15m,"beyond_1.0|(0.625, 13.23]|(0.229, 0.519]",q_volr_1d,"(1.221, 3.098]",0.949,0.299,177
+through,3,station|zone|q_rng100_5m,"beyond_0.5|11|(1.283, 18.167]",q_pos100_5m,"(-0.001, 0.149]",0.948,0.299,116
+through,3,station|scen_state|q_volr_1h,"beyond_1.0|dead|(1.415, 3.637]",q_zlast_5m,"(-0.001, 4.0]",0.947,0.299,114
+through,3,station|q_pos100_15m|q_volr_5m,"beyond_1.0|(0.229, 0.519]|(0.086, 0.801]",q_zlast_15m,"(-0.001, 1.0]",0.947,0.299,132
+through,3,station|zone|q_pos100_1d,"beyond_1.0|10|(0.806, 1.0]",q_zlast_15m,"(-0.001, 1.0]",0.946,0.299,129
+through,3,station|q_net100_5m|q_net100_1d,"beyond_1.0|(-7.8790000000000004, -0.434]|(6.787, 24.446]",q_pos100_15m,"(0.519, 0.804]",0.946,0.299,168
+through,3,station|q_net100_1d|q_pos100_15m,"beyond_1.0|(6.787, 24.446]|(0.519, 0.804]",q_zlast_5m,"(-0.001, 4.0]",0.946,0.299,185
+through,3,station|ob55|q_pos100_15m,"beyond_1.0|open|(0.229, 0.519]",q_volr_1h,"(0.206, 0.858]",0.944,0.299,124
+through,3,station|q_pos100_1h|q_pos100_1d,"beyond_1.0|(0.563, 0.797]|(0.806, 1.0]",q_zlast_15m,"(-0.001, 1.0]",0.944,0.299,286
+through,3,station|q_volr_5m|q_zt100_4h,"beyond_1.0|(0.086, 0.801]|(4.0, 9.0]",q_zlast_15m,"(-0.001, 1.0]",0.944,0.299,126
+through,3,station|zone|q_net20_5m,"beyond_0.5|12|(-6.503, -0.245]",q_zt100_15m,"(5.0, 16.0]",0.943,0.299,106
+through,3,station|hayden_btc|q_net100_15m,"beyond_1.0|Chop|(-8.831, -0.66]",q_net100_4h,"(3.51, 22.656]",0.943,0.299,123
+through,3,station|q_rng100_4h|q_rng100_1d,"beyond_1.0|(6.828, 33.588]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.943,0.299,157
+through,3,station|q_net100_4h|q_rng100_1d,"beyond_1.0|(3.51, 22.656]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.94,0.299,167
+through,3,station|wq|q_pos100_1h,"beyond_1.0|(0.0521, 0.295]|(0.563, 0.797]",q_zlast_15m,"(-0.001, 1.0]",0.939,0.299,213
+through,3,station|ob55|q_net100_15m,"beyond_1.0|open_fired|(-8.831, -0.66]",q_zlast_15m,"(-0.001, 1.0]",0.939,0.299,115
+through,3,station|q_net100_1h|q_pos100_15m,"beyond_1.0|(1.829, 22.804]|(-0.001, 0.229]",q_volr_1h,"(1.415, 3.637]",0.939,0.299,132
+through,3,station|q_net100_1d|q_volr_15m,"beyond_1.0|(1.529, 6.787]|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.939,0.299,132
+through,3,station|coin|q_volr_1d,"beyond_1.0|BTC|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.938,0.299,129
+through,3,station|hayden_btc|q_net20_1d,"beyond_1.0|Chop|(3.664, 22.598]",q_zlast_15m,"(-0.001, 1.0]",0.938,0.299,113
+through,3,station|btc_pi|q_net100_15m,"beyond_1.0|na|(-8.831, -0.66]",q_rng100_15m,"(2.158, 32.041]",0.938,0.299,113
+through,3,station|btc_pi|q_rng100_15m,"beyond_1.0|na|(2.158, 32.041]",q_pos100_5m,"(-0.001, 0.149]",0.938,0.299,113
+through,3,station|q_net100_5m|q_net100_15m,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.032, 0.711]",q_zlast_15m,"(-0.001, 1.0]",0.938,0.299,145
+through,3,station|q_net100_1h|q_net20_5m,"beyond_1.0|(1.829, 22.804]|(-6.503, -0.245]",q_net20_15m,"(0.302, 8.101]",0.938,0.299,113
+through,3,station|zone|dtype,beyond_1.0|12|na,q_net20_5m,"(-6.503, -0.245]",0.937,0.299,127
+through,3,station|zone|lean,beyond_1.0|12|na,q_net20_5m,"(-6.503, -0.245]",0.937,0.299,127
+through,3,station|zone|scen_state,beyond_1.0|12|na,q_net20_5m,"(-6.503, -0.245]",0.937,0.299,127
+through,3,station|zone|scen_failed,beyond_1.0|12|na,q_net20_5m,"(-6.503, -0.245]",0.937,0.299,127
+through,3,station|zone|q_rng100_15m,"beyond_1.0|10|(2.158, 32.041]",q_zlast_5m,"(-0.001, 4.0]",0.937,0.299,126
+through,3,station|hayden_btc|q_rng100_1h,"beyond_1.0|Chop|(4.139, 32.522]",q_pos100_1h,"(0.563, 0.797]",0.937,0.299,143
+through,3,station|btc_pi|q_net20_5m,"beyond_1.0|na|(-6.503, -0.245]",q_rng100_15m,"(2.158, 32.041]",0.937,0.299,127
+through,3,station|q_pos100_5m|q_volr_1h,"beyond_1.0|(0.149, 0.502]|(0.206, 0.858]",q_zlast_15m,"(-0.001, 1.0]",0.937,0.299,126
+through,3,station|q_net20_4h|q_rng100_1d,"beyond_1.0|(1.521, 22.137]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.936,0.299,172
+through,3,station|q_pos100_15m|q_pos100_1d,"beyond_1.0|(0.519, 0.804]|(0.806, 1.0]",q_zlast_5m,"(-0.001, 4.0]",0.936,0.299,172
+through,3,station|q_pos100_1h|q_volr_1d,"beyond_1.0|(0.282, 0.563]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.936,0.299,220
+through,3,station|btc_pi|uq,"beyond_0.5|up|(-0.037, 0.21]",q_zlast_5m,"(-0.001, 4.0]",0.935,0.299,107
+through,3,station|btc_pi|q_net100_1d,"beyond_1.0|na|(6.787, 24.446]",q_pos100_1h,"(0.282, 0.563]",0.935,0.299,107
+through,3,station|q_pos100_15m|q_volr_1d,"beyond_1.0|(0.519, 0.804]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.935,0.299,199
+through,3,station|q_net20_1h|q_pos100_15m,"beyond_0.5|(0.582, 12.797]|(0.229, 0.519]",q_zlast_1h,"(5.0, 100.0]",0.934,0.299,106
+through,3,station|q_pos100_5m|q_volr_1d,"beyond_1.0|(0.149, 0.502]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.934,0.299,137
+through,3,station|q_pos100_15m|q_volr_1d,"beyond_1.0|(0.229, 0.519]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.934,0.299,151
+through,3,station|hayden_btc|q_pos100_15m,"beyond_1.0|Chop|(0.229, 0.519]",q_volr_1d,"(1.221, 3.098]",0.933,0.299,104
+through,3,station|q_net100_5m|q_volr_5m,"beyond_1.0|(-7.8790000000000004, -0.434]|(0.086, 0.801]",q_zlast_5m,"(-0.001, 4.0]",0.933,0.299,104
+through,3,station|q_net100_1h|q_net20_15m,"beyond_1.0|(1.829, 22.804]|(0.302, 8.101]",q_pos100_5m,"(0.149, 0.502]",0.933,0.299,105
+through,3,station|zone|kq,"beyond_1.0|10|(1.753, 17.486]",q_zlast_5m,"(-0.001, 4.0]",0.932,0.299,117
+through,3,station|zone|q_net100_15m,"beyond_1.0|10|(-0.66, 0.032]",q_zt100_5m,"(13.0, 37.0]",0.932,0.299,103
+through,3,station|q_net100_15m|q_net20_15m,"beyond_1.0|(0.032, 0.711]|(-9.517999999999999, -0.33]",q_zlast_15m,"(-0.001, 1.0]",0.932,0.299,118
+through,3,station|q_net100_1d|q_pos100_4h,"beyond_1.0|(1.529, 6.787]|(0.827, 1.0]",q_zlast_5m,"(-0.001, 4.0]",0.932,0.299,133
+through,3,station|q_net20_15m|q_volr_1d,"beyond_1.0|(-0.33, -0.013]|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.932,0.299,147
+through,3,station|zone|q_pos100_1h,"beyond_0.5|10|(0.563, 0.797]",q_volr_15m,"(1.348, 4.13]",0.931,0.299,101
+through,3,station|tn|q_net20_4h,"beyond_1.0|t3+|(0.251, 1.521]",q_zlast_5m,"(-0.001, 4.0]",0.931,0.299,130
+through,3,station|dq|q_pos100_5m,"beyond_1.0|(0.625, 13.23]|(0.149, 0.502]",q_volr_1d,"(1.221, 3.098]",0.931,0.299,101
+through,3,station|ob55|q_net20_4h,"beyond_1.0|open|(-8.059999999999999, -0.889]",q_rng100_15m,"(2.158, 32.041]",0.931,0.299,102
+through,3,station|q_net20_15m|q_volr_1d,"beyond_1.0|(-0.33, -0.013]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.931,0.299,131
+through,3,station|q_volr_1h|q_volr_1d,"beyond_1.0|(1.415, 3.637]|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.931,0.299,259
+through,3,station|coin|btc_pi,beyond_0.5|SOL|up,q_zlast_5m,"(-0.001, 4.0]",0.93,0.299,100
+through,3,station|btc_pi|q_rng100_15m,"beyond_1.0|up|(2.158, 32.041]",q_zt100_1d,"(-0.001, 3.0]",0.93,0.299,100
+through,3,station|q_pos100_1h|q_volr_1d,"beyond_1.0|(0.282, 0.563]|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.93,0.299,286
+through,3,station|zone|q_net20_5m,"beyond_1.0|10|(-6.503, -0.245]",q_zt100_1h,"(5.0, 13.0]",0.929,0.299,141
+through,3,station|kq|q_volr_15m,"beyond_1.0|(1.753, 17.486]|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.929,0.299,283
+through,3,station|q_volr_15m|q_zt100_1d,"beyond_1.0|(0.772, 1.015]|(-0.001, 3.0]",q_zlast_5m,"(-0.001, 4.0]",0.929,0.299,253
+through,3,station|q_volr_1d|q_zt100_15m,"beyond_1.0|(1.221, 3.098]|(16.0, 38.0]",q_zlast_15m,"(-0.001, 1.0]",0.929,0.299,283
+through,3,station|hayden_btc|q_net100_1h,"beyond_1.0|Chop|(1.829, 22.804]",q_pos100_15m,"(0.229, 0.519]",0.928,0.299,111
+through,3,station|ob55|q_net100_15m,"beyond_1.0|open|(0.711, 22.385]",q_zlast_5m,"(-0.001, 4.0]",0.928,0.299,111
+through,3,station|ob55|q_zt100_5m,"beyond_1.0|open|(13.0, 37.0]",q_zlast_15m,"(-0.001, 1.0]",0.928,0.299,139
+through,3,station|ob55|q_zt100_15m,"beyond_1.0|open|(16.0, 38.0]",q_zlast_5m,"(-0.001, 4.0]",0.928,0.299,111
+through,3,station|zone|wknd,beyond_1.0|11|False,q_rng100_1d,"(10.661, 13.269]",0.927,0.299,109
+through,3,station|q_volr_1d|q_zt100_5m,"beyond_1.0|(1.221, 3.098]|(13.0, 37.0]",q_zlast_5m,"(-0.001, 4.0]",0.927,0.299,260
+through,3,station|zone|q_net100_1d,"beyond_1.0|10|(6.787, 24.446]",q_zlast_15m,"(-0.001, 1.0]",0.926,0.299,136
+through,3,station|hayden_btc|q_net100_5m,"beyond_1.0|Chop|(-7.8790000000000004, -0.434]",q_net100_4h,"(3.51, 22.656]",0.926,0.299,148
+through,3,station|btc_pi|q_net20_1d,"beyond_0.5|up|(3.664, 22.598]",q_zlast_5m,"(-0.001, 4.0]",0.926,0.299,121
+through,3,station|q_net100_1d|q_volr_15m,"beyond_1.0|(1.529, 6.787]|(0.772, 1.015]",q_zlast_15m,"(-0.001, 1.0]",0.926,0.299,162
+through,3,station|zone|wq,"beyond_1.0|11|(-0.001, 0.0521]",q_rng100_1d,"(10.661, 13.269]",0.925,0.299,106
+through,3,station|zone|q_pos100_1d,"beyond_1.0|9|(0.806, 1.0]",q_zlast_15m,"(-0.001, 1.0]",0.925,0.299,120
+through,3,station|uq|ob55,"beyond_1.0|(0.21, 0.89]|open_fired",q_zlast_5m,"(-0.001, 4.0]",0.925,0.299,159
+through,3,station|yd_arch|q_net100_4h,"beyond_1.0|UP|(3.51, 22.656]",q_pos100_1h,"(0.282, 0.563]",0.925,0.299,174
+through,3,station|q_pos100_15m|q_volr_15m,"beyond_1.0|(0.229, 0.519]|(0.121, 0.772]",q_volr_1h,"(0.206, 0.858]",0.925,0.299,134
+through,3,station|coin|hayden_btc,beyond_1.0|XRP|Chop,q_pos100_15m,"(0.229, 0.519]",0.924,0.299,105
+through,3,station|wq|dq,"beyond_1.0|(0.0521, 0.295]|(0.625, 13.23]",q_pos100_15m,"(0.229, 0.519]",0.924,0.299,132
+through,3,station|coin|q_pos100_15m,"beyond_1.0|XRP|(0.229, 0.519]",q_pos100_1d,"(0.806, 1.0]",0.923,0.299,117
+through,3,station|dq|ob55,"beyond_1.0|(0.625, 13.23]|open_fired",q_pos100_15m,"(0.229, 0.519]",0.923,0.299,143
+through,3,station|yd_arch|q_volr_1d,"beyond_1.0|UP|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.923,0.299,183
+through,3,station|q_volr_5m|q_zt100_1d,"beyond_1.0|(0.086, 0.801]|(-0.001, 3.0]",q_zlast_15m,"(-0.001, 1.0]",0.923,0.299,155
+through,3,station|coin|zone,beyond_0.5|SOL|11,q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,103
+through,3,station|zone|q_net20_5m,"beyond_0.5|12|(-6.503, -0.245]",q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,128
+through,3,station|wknd|btc_pi,beyond_1.0|False|up,q_volr_1d,"(0.959, 1.221]",0.922,0.299,115
+through,3,station|wknd|btc_pi,beyond_0.5|False|up,q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,129
+through,3,station|hayden_btc|q_net100_4h,"beyond_1.0|Chop|(3.51, 22.656]",q_zlast_15m,"(-0.001, 1.0]",0.922,0.299,115
+through,3,station|btc_pi|q_net20_1h,"beyond_1.0|na|(-7.112, -0.549]",q_rng100_15m,"(2.158, 32.041]",0.922,0.299,102
+through,3,station|ob55|q_pos100_4h,"beyond_1.0|open|(0.291, 0.603]",q_zlast_15m,"(-0.001, 1.0]",0.922,0.299,102
+through,3,station|q_net100_5m|q_rng100_1h,"beyond_1.0|(-0.434, -0.013]|(4.139, 32.522]",q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,115
+through,3,station|q_net100_15m|q_net20_15m,"beyond_1.0|(0.032, 0.711]|(-9.517999999999999, -0.33]",q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,103
+through,3,station|q_net100_1h|q_net100_1d,"beyond_0.25|(1.829, 22.804]|(6.787, 24.446]",q_net20_4h,"(-8.059999999999999, -0.889]",0.922,0.299,103
+through,3,station|q_net100_4h|q_pos100_4h,"beyond_0.25|(3.51, 22.656]|(0.291, 0.603]",q_zt100_4h,"(-0.001, 4.0]",0.922,0.299,102
+through,3,station|q_net100_1d|q_pos100_15m,"beyond_1.0|(6.787, 24.446]|(0.519, 0.804]",q_zlast_15m,"(-0.001, 1.0]",0.922,0.299,232
+through,3,station|q_net20_5m|q_net20_15m,"beyond_1.0|(-6.503, -0.245]|(0.302, 8.101]",q_net20_4h,"(1.521, 22.137]",0.922,0.299,103
+through,3,station|q_pos100_15m|q_volr_1h,"beyond_1.0|(0.229, 0.519]|(0.206, 0.858]",q_zlast_15m,"(-0.001, 1.0]",0.922,0.299,103
+through,3,station|q_pos100_4h|q_zt100_5m,"beyond_1.0|(0.827, 1.0]|(3.0, 13.0]",q_zlast_5m,"(-0.001, 4.0]",0.922,0.299,206
+through,3,station|ob55|q_pos100_5m,"beyond_1.0|open|(0.149, 0.502]",q_zt100_4h,"(4.0, 9.0]",0.921,0.299,101
+through,3,station|q_volr_5m|q_zt100_1d,"beyond_1.0|(0.086, 0.801]|(-0.001, 3.0]",q_zlast_5m,"(-0.001, 4.0]",0.921,0.299,151
+through,3,station|zone|q_volr_5m,"beyond_1.0|10|(1.084, 1.469]",q_zt100_15m,"(5.0, 16.0]",0.92,0.299,100
+through,3,station|yd_arch|q_pos100_4h,"beyond_1.0|DN|(0.291, 0.603]",q_zt100_1d,"(-0.001, 3.0]",0.92,0.299,100
+through,3,station|q_net100_5m|q_volr_4h,"beyond_1.0|(-0.434, -0.013]|(1.473, 3.385]",q_zlast_5m,"(-0.001, 4.0]",0.92,0.299,125
+through,3,station|q_net20_1h|q_net20_1d,"beyond_0.5|(0.582, 12.797]|(3.664, 22.598]",q_pos100_4h,"(0.291, 0.603]",0.92,0.299,100
+through,3,station|zone|q_pos100_5m,"beyond_1.0|10|(-0.001, 0.149]",q_zt100_1h,"(5.0, 13.0]",0.919,0.299,111
+through,3,station|hayden_btc|q_rng100_4h,"beyond_1.0|Chop|(6.828, 33.588]",q_pos100_15m,"(0.229, 0.519]",0.919,0.299,111
+through,3,station|btc_pi|q_volr_4h,"beyond_0.5|up|(1.473, 3.385]",q_zlast_15m,"(-0.001, 1.0]",0.919,0.299,111
+through,3,station|ob55|q_net100_15m,"beyond_1.0|na|(0.032, 0.711]",q_rng100_15m,"(2.158, 32.041]",0.919,0.299,185
+through,3,station|ob55|q_zt100_5m,"beyond_1.0|open|(13.0, 37.0]",q_zlast_5m,"(-0.001, 4.0]",0.919,0.299,111
+through,3,station|q_rng100_5m|q_pos100_5m,"beyond_1.0|(1.283, 18.167]|(0.149, 0.502]",q_zlast_1h,"(5.0, 100.0]",0.919,0.299,111
+through,3,station|q_volr_4h|q_zt100_1h,"beyond_1.0|(1.473, 3.385]|(-0.001, 5.0]",q_zlast_5m,"(-0.001, 4.0]",0.919,0.299,236
+through,3,station|session|q_net100_1d,"beyond_1.0|eu|(6.787, 24.446]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,134
+through,3,station|btc_pi|q_rng100_1h,"beyond_0.5|up|(4.139, 32.522]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,110
+through,3,station|sq|q_rng100_1d,"beyond_1.0|(1.207, 65.153]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,134
+through,3,station|sq|q_volr_15m,"beyond_1.0|(1.207, 65.153]|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,171
+through,3,station|uq|q_volr_1d,"beyond_1.0|(-0.297, -0.037]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,170
+through,3,station|q_net100_15m|q_rng100_1h,"beyond_1.0|(0.032, 0.711]|(4.139, 32.522]",q_zlast_15m,"(-0.001, 1.0]",0.918,0.299,171
+through,3,station|q_net100_1h|q_rng100_1d,"beyond_1.0|(1.829, 22.804]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,171
+through,3,station|q_net20_4h|q_rng100_1h,"beyond_1.0|(0.251, 1.521]|(4.139, 32.522]",q_volr_5m,"(0.801, 1.084]",0.918,0.299,110
+through,3,station|q_pos100_15m|q_pos100_1d,"beyond_1.0|(0.519, 0.804]|(0.806, 1.0]",q_zlast_15m,"(-0.001, 1.0]",0.918,0.299,194
+through,3,station|q_volr_15m|q_volr_1d,"beyond_1.0|(0.121, 0.772]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.918,0.299,146
+through,3,station|coin|q_net100_1d,"beyond_1.0|XRP|(6.787, 24.446]",q_pos100_15m,"(0.229, 0.519]",0.917,0.299,253
+through,3,station|etype|q_rng100_5m,"beyond_0.25|PEN|(1.283, 18.167]",q_zlast_15m,"(15.0, 100.0]",0.917,0.299,132
+through,3,station|zone|sq,"beyond_0.5|12|(1.207, 65.153]",q_pos100_1h,"(0.563, 0.797]",0.917,0.299,108
+through,3,station|hayden_btc|btc_pi,beyond_0.5|Bear|up,q_zlast_5m,"(-0.001, 4.0]",0.917,0.299,108
+through,3,station|dq|q_net100_4h,"beyond_1.0|(0.625, 13.23]|(3.51, 22.656]",q_pos100_5m,"(0.149, 0.502]",0.917,0.299,206
+through,3,station|uq|q_net100_5m,"beyond_1.0|(-0.297, -0.037]|(-7.8790000000000004, -0.434]",q_net20_1h,"(0.582, 12.797]",0.917,0.299,120
+through,3,station|q_net100_15m|q_net100_4h,"beyond_0.5|(0.711, 22.385]|(3.51, 22.656]",q_pos100_4h,"(0.291, 0.603]",0.917,0.299,109
+through,3,station|q_net100_4h|q_net20_4h,"beyond_0.5|(3.51, 22.656]|(-8.059999999999999, -0.889]",q_rng100_5m,"(1.283, 18.167]",0.917,0.299,169
+through,3,station|q_rng100_1d|q_volr_1d,"beyond_1.0|(10.661, 13.269]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.917,0.299,108
+through,3,station|q_pos100_15m|q_volr_1d,"beyond_1.0|(0.519, 0.804]|(1.221, 3.098]",q_zlast_15m,"(-0.001, 1.0]",0.917,0.299,253
+through,3,station|hayden_btc|q_pos100_1h,"beyond_1.0|Chop|(0.563, 0.797]",q_volr_4h,"(1.473, 3.385]",0.916,0.299,131
+through,3,station|q_net100_1h|q_pos100_15m,"beyond_1.0|(1.829, 22.804]|(0.229, 0.519]",q_volr_1h,"(0.206, 0.858]",0.916,0.299,167
+through,3,station|q_net20_5m|q_pos100_1h,"beyond_1.0|(-6.503, -0.245]|(0.797, 1.0]",q_volr_5m,"(0.801, 1.084]",0.916,0.299,119
+through,3,station|q_net20_1h|q_volr_1h,"beyond_1.0|(0.582, 12.797]|(0.206, 0.858]",q_zlast_5m,"(-0.001, 4.0]",0.916,0.299,119
+through,3,station|q_pos100_5m|q_volr_1h,"beyond_1.0|(0.149, 0.502]|(0.206, 0.858]",q_zlast_5m,"(-0.001, 4.0]",0.916,0.299,107
+through,3,station|q_pos100_15m|q_pos100_1d,"beyond_1.0|(0.519, 0.804]|(0.806, 1.0]",q_volr_5m,"(0.801, 1.084]",0.916,0.299,178
+through,3,station|wknd|dq,"beyond_1.0|True|(0.625, 13.23]",q_pos100_15m,"(0.229, 0.519]",0.915,0.299,130
+through,3,station|wknd|q_pos100_15m,"beyond_1.0|True|(0.229, 0.519]",q_volr_5m,"(0.086, 0.801]",0.915,0.299,129
+through,3,station|hayden_btc|ob55,beyond_1.0|Bear|open_fired,q_volr_1d,"(0.959, 1.221]",0.915,0.299,106
+through,3,station|hayden_btc|q_rng100_15m,"beyond_1.0|Chop|(2.158, 32.041]",q_pos100_1h,"(0.563, 0.797]",0.915,0.299,142
+through,3,station|btc_pi|uq,"beyond_0.5|up|(-0.037, 0.21]",q_zlast_15m,"(-0.001, 1.0]",0.915,0.299,117
+through,3,station|btc_pi|q_rng100_15m,"beyond_1.0|na|(2.158, 32.041]",q_volr_1h,"(1.415, 3.637]",0.915,0.299,164
+through,3,station|dq|q_net100_1h,"beyond_1.0|(0.625, 13.23]|(1.829, 22.804]",q_pos100_5m,"(0.149, 0.502]",0.915,0.299,200
+through,3,station|q_pos100_1d|q_volr_1d,"beyond_1.0|(0.806, 1.0]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.915,0.299,258
+through,3,station|zone|q_zt100_1d,"beyond_1.0|10|(-0.001, 3.0]",q_zlast_15m,"(-0.001, 1.0]",0.914,0.299,139
+through,3,station|hayden_btc|q_net100_15m,"beyond_1.0|Chop|(-8.831, -0.66]",q_net100_1h,"(1.829, 22.804]",0.914,0.299,105
+through,3,station|btc_pi|q_volr_1d,"beyond_1.0|up|(0.959, 1.221]",q_zlast_4h,"(-0.001, 2.0]",0.914,0.299,116
+through,3,station|q_net20_1d|q_rng100_1d,"beyond_1.0|(3.664, 22.598]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.914,0.299,174
+through,3,station|q_net20_1d|q_rng100_1d,"beyond_1.0|(3.664, 22.598]|(10.661, 13.269]",q_zlast_15m,"(-0.001, 1.0]",0.914,0.299,232
+through,3,station|q_rng100_1h|q_rng100_1d,"beyond_1.0|(4.139, 32.522]|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.914,0.299,198
+through,3,station|q_pos100_1d|q_volr_15m,"beyond_1.0|(0.806, 1.0]|(0.772, 1.015]",q_zlast_5m,"(-0.001, 4.0]",0.914,0.299,174
+through,3,station|coin|btc_pi,beyond_0.5|SOL|up,q_zlast_15m,"(-0.001, 1.0]",0.913,0.299,115
+through,3,station|wq|q_pos100_15m,"beyond_1.0|(0.0521, 0.295]|(0.229, 0.519]",q_zlast_15m,"(-0.001, 1.0]",0.913,0.299,196
+through,3,station|btc_pi|q_pos100_1h,"beyond_1.0|na|(0.282, 0.563]",q_pos100_1d,"(0.806, 1.0]",0.913,0.299,127
+through,3,station|tn|q_volr_1d,"beyond_1.0|t3+|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.913,0.299,333
+through,3,station|dq|q_net20_1d,"beyond_1.0|(0.625, 13.23]|(3.664, 22.598]",q_pos100_5m,"(0.149, 0.502]",0.913,0.299,208
+through,3,station|kq|ob55,"beyond_1.0|(1.753, 17.486]|na",q_net100_1d,"(-55.971999999999994, -5.123]",0.913,0.299,103
+through,3,station|uq|q_pos100_15m,"beyond_1.0|(-2.577, -0.297]|(0.229, 0.519]",q_volr_1d,"(1.221, 3.098]",0.913,0.299,127
+through,3,station|yd_arch|q_net100_5m,"beyond_1.0|UP|(0.406, 9.59]",q_net20_5m,"(-6.503, -0.245]",0.913,0.299,104
+through,3,station|q_net100_5m|q_net100_4h,"beyond_1.0|(-0.434, -0.013]|(3.51, 22.656]",q_zlast_5m,"(-0.001, 4.0]",0.913,0.299,115
+through,3,station|q_net100_15m|q_pos100_15m,"beyond_1.0|(0.711, 22.385]|(0.229, 0.519]",q_volr_1d,"(1.221, 3.098]",0.913,0.299,115
+through,3,station|q_rng100_1d|q_volr_4h,"beyond_1.0|(10.661, 13.269]|(1.473, 3.385]",q_zlast_5m,"(-0.001, 4.0]",0.913,0.299,172
+through,3,station|q_rng100_1d|q_volr_1d,"beyond_1.0|(13.269, 17.561]|(1.221, 3.098]",q_zlast_5m,"(-0.001, 4.0]",0.913,0.299,173
+through,3,station|q_volr_15m|q_volr_1h,"beyond_1.0|(0.772, 1.015]|(1.415, 3.637]",q_zlast_5m,"(-0.001, 4.0]",0.913,0.299,218
+through,3,station|btc_pi|rq,"beyond_0.5|up|(1.451, 16.357]",q_zlast_5m,"(-0.001, 4.0]",0.912,0.299,102
+through,3,station|dq|q_pos100_5m,"beyond_1.0|(0.625, 13.23]|(0.502, 0.868]",q_zlast_5m,"(-0.001, 4.0]",0.912,0.299,102
+through,3,station|ob55|q_rng100_1d,"beyond_1.0|open_fired|(10.661, 13.269]",q_zlast_5m,"(-0.001, 4.0]",0.912,0.299,148
+through,3,station|q_net100_5m|q_volr_4h,"beyond_1.0|(-0.434, -0.013]|(1.473, 3.385]",q_zlast_15m,"(-0.001, 1.0]",0.912,0.299,148
+through,5,station|wq|hayden_btc|rq|uq,"beyond_0.5|(0.0521, 0.295]|Bear|(1.451, 16.357]|(0.21, 0.89]",ob55,na,0.99,0.299,101
+through,5,station|coin|zone|wknd|hayden_btc,beyond_1.0|XRP|10|False|Bull,yd_arch,UP,0.97,0.299,101
+through,5,station|coin|virgin|hayden_btc|uq,"beyond_1.0|XRP|False|Chop|(-2.577, -0.297]",ob55,open,0.966,0.299,117
+through,5,station|coin|cb|hayden_btc|uq,"beyond_1.0|XRP|c>=50|Chop|(-2.577, -0.297]",ob55,open,0.966,0.299,117
+through,5,station|coin|hayden|hayden_btc|uq,"beyond_1.0|XRP|Bull|Chop|(-2.577, -0.297]",ob55,open,0.966,0.299,117
+through,5,station|coin|hayden_btc|btc_pi|uq,"beyond_1.0|XRP|Chop|down|(-2.577, -0.297]",ob55,open,0.966,0.299,117
+through,5,station|coin|hayden_btc|uq|yd_arch,"beyond_1.0|XRP|Chop|(-2.577, -0.297]|CHOP",ob55,open,0.966,0.299,117
+through,5,station|coin|tn|kq|uq,"out_1.0|XRP|t3+|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.962,0.299,105
+through,5,station|coin|zone|hayden_btc|yd_arch,beyond_1.0|XRP|10|Bull|UP,dtype,na,0.95,0.299,100
+through,5,station|coin|zone|hayden_btc|yd_arch,beyond_1.0|XRP|10|Bull|UP,lean,na,0.95,0.299,100
+through,5,station|coin|zone|hayden_btc|yd_arch,beyond_1.0|XRP|10|Bull|UP,scen_state,na,0.95,0.299,100
+through,5,station|coin|zone|hayden_btc|yd_arch,beyond_1.0|XRP|10|Bull|UP,scen_failed,na,0.95,0.299,100
+through,5,station|cb|hayden|hayden_btc|rq,"beyond_1.0|c>=50|Bull|Chop|(1.451, 16.357]",uq,"(-2.577, -0.297]",0.95,0.299,101
+through,5,station|hayden|hayden_btc|rq|uq,"beyond_1.0|Bull|Chop|(1.451, 16.357]|(-2.577, -0.297]",yd_arch,CHOP,0.95,0.299,100
+through,5,station|coin|origin|kq|uq,"out_1.0|XRP|air|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.947,0.299,131
+through,5,station|coin|sq|kq|uq,"out_1.0|XRP|(1.207, 65.153]|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.946,0.299,130
+through,5,station|coin|rq|kq|yd_arch,"beyond_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|UP",dtype,na,0.945,0.299,274
+through,5,station|coin|rq|kq|yd_arch,"beyond_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|UP",lean,na,0.945,0.299,274
+through,5,station|coin|rq|kq|yd_arch,"beyond_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|UP",scen_state,na,0.945,0.299,274
+through,5,station|coin|rq|kq|yd_arch,"beyond_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|UP",scen_failed,na,0.945,0.299,274
+through,5,station|coin|zone|wknd|hayden,beyond_1.0|XRP|10|False|Bull,yd_arch,UP,0.944,0.299,108
+through,5,station|zone|wq|rq|yd_arch,"beyond_1.0|12|(-0.001, 0.0521]|(1.451, 16.357]|UP",dtype,na,0.941,0.299,102
+through,5,station|zone|wq|rq|yd_arch,"beyond_1.0|12|(-0.001, 0.0521]|(1.451, 16.357]|UP",lean,na,0.941,0.299,102
+through,5,station|zone|wq|rq|yd_arch,"beyond_1.0|12|(-0.001, 0.0521]|(1.451, 16.357]|UP",scen_state,na,0.941,0.299,102
+through,5,station|zone|wq|rq|yd_arch,"beyond_1.0|12|(-0.001, 0.0521]|(1.451, 16.357]|UP",scen_failed,na,0.941,0.299,102
+through,5,station|coin|hayden|hayden_btc|rq,"beyond_1.0|XRP|Bull|Chop|(1.451, 16.357]",uq,"(-2.577, -0.297]",0.94,0.299,100
+through,5,station|wq|rq|kq|yd_arch,"beyond_1.0|(0.0521, 0.295]|(1.451, 16.357]|(0.947, 1.753]|CHOP",ob55,na,0.94,0.299,100
+through,5,station|wknd|hayden|tn|kq,"beyond_1.0|False|Bear|t3+|(1.753, 17.486]",ob55,na,0.94,0.299,117
+through,5,station|coin|rq|kq|yd_arch,"beyond_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|UP",ob55,open_fired,0.938,0.299,146
+through,5,station|coin|zone|wknd|kq,"beyond_1.0|XRP|10|False|(1.753, 17.486]",dtype,na,0.937,0.299,111
+through,5,station|coin|zone|wknd|kq,"beyond_1.0|XRP|10|False|(1.753, 17.486]",lean,na,0.937,0.299,111
+through,5,station|coin|zone|wknd|kq,"beyond_1.0|XRP|10|False|(1.753, 17.486]",scen_state,na,0.937,0.299,111
+through,5,station|coin|zone|wknd|kq,"beyond_1.0|XRP|10|False|(1.753, 17.486]",scen_failed,na,0.937,0.299,111
+through,5,station|coin|rq|kq|uq,"out_1.0|XRP|(1.451, 16.357]|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.936,0.299,140
+through,5,station|zone|hayden|kq|yd_arch,"beyond_1.0|10|Bull|(1.753, 17.486]|UP",ob55,na,0.936,0.299,109
+through,5,station|zone|hayden_btc|kq|yd_arch,"beyond_1.0|10|Bull|(1.753, 17.486]|UP",ob55,na,0.936,0.299,109
+through,5,station|zone|kq|yd_arch|ob55,"beyond_1.0|10|(1.753, 17.486]|UP|na",dtype,na,0.936,0.299,109
+through,5,station|zone|kq|yd_arch|ob55,"beyond_1.0|10|(1.753, 17.486]|UP|na",lean,na,0.936,0.299,109
+through,5,station|zone|kq|yd_arch|ob55,"beyond_1.0|10|(1.753, 17.486]|UP|na",scen_state,na,0.936,0.299,109
+through,5,station|zone|kq|yd_arch|ob55,"beyond_1.0|10|(1.753, 17.486]|UP|na",scen_failed,na,0.936,0.299,109
+through,5,station|virgin|hayden|hayden_btc|rq,"beyond_1.0|False|Bull|Chop|(1.451, 16.357]",uq,"(-2.577, -0.297]",0.935,0.299,108
+through,5,station|wknd|vq|kq|yd_arch,"beyond_1.0|False|(3.795, 183.902]|(1.753, 17.486]|DN",ob55,na,0.935,0.299,107
+through,5,station|zone|wknd|btc_pi|yd_arch,beyond_1.0|12|False|down|UP,dtype,na,0.934,0.299,106
+through,5,station|zone|wknd|btc_pi|yd_arch,beyond_1.0|12|False|down|UP,lean,na,0.934,0.299,106
+through,5,station|zone|wknd|btc_pi|yd_arch,beyond_1.0|12|False|down|UP,scen_state,na,0.934,0.299,106
+through,5,station|zone|wknd|btc_pi|yd_arch,beyond_1.0|12|False|down|UP,scen_failed,na,0.934,0.299,106
+through,5,station|wq|rq|kq|uq,"beyond_0.5|(0.0521, 0.295]|(1.451, 16.357]|(1.753, 17.486]|(-0.037, 0.21]",yd_arch,UP,0.934,0.299,106
+through,5,station|hayden|hayden_btc|btc_pi|rq,"beyond_1.0|Bull|Chop|down|(1.451, 16.357]",uq,"(-2.577, -0.297]",0.933,0.299,104
+through,5,station|wq|rq|kq|uq,"beyond_0.5|(0.0521, 0.295]|(1.451, 16.357]|(1.753, 17.486]|(-0.297, -0.037]",ob55,na,0.932,0.299,133
+through,5,station|coin|zone|hayden|hayden_btc,beyond_1.0|XRP|10|Bull|Bull,yd_arch,UP,0.931,0.299,116
+through,5,station|zone|virgin|kq|yd_arch,"beyond_1.0|10|False|(1.753, 17.486]|UP",ob55,na,0.931,0.299,102
+through,5,station|zone|cb|kq|yd_arch,"beyond_1.0|10|c>=50|(1.753, 17.486]|UP",ob55,na,0.931,0.299,102
+through,5,station|coin|zone|wknd|hayden,beyond_1.0|XRP|10|False|Bull,kq,"(1.753, 17.486]",0.93,0.299,114
+through,5,station|coin|cb|vq|kq,"beyond_1.0|XRP|c<30|(3.795, 183.902]|(1.753, 17.486]",dtype,na,0.93,0.299,115
+through,5,station|coin|cb|vq|kq,"beyond_1.0|XRP|c<30|(3.795, 183.902]|(1.753, 17.486]",lean,na,0.93,0.299,115
+through,5,station|coin|cb|vq|kq,"beyond_1.0|XRP|c<30|(3.795, 183.902]|(1.753, 17.486]",scen_state,na,0.93,0.299,115
+through,5,station|coin|cb|vq|kq,"beyond_1.0|XRP|c<30|(3.795, 183.902]|(1.753, 17.486]",scen_failed,na,0.93,0.299,115
+through,5,station|coin|hayden|kq|uq,"out_1.0|XRP|Bull|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.93,0.299,171
+through,5,station|etype|wq|session|hayden,"out_0.25|STALL|(-0.001, 0.0521]|us_open|Bull",rq,"(1.451, 16.357]",0.93,0.299,100
+through,5,station|etype|session|dq|rq,"out_0.25|STALL|us_open|(0.625, 13.23]|(1.451, 16.357]",dtype,na,0.93,0.299,115
+through,5,station|etype|session|dq|rq,"out_0.25|STALL|us_open|(0.625, 13.23]|(1.451, 16.357]",lean,na,0.93,0.299,115
+through,5,station|etype|session|dq|rq,"out_0.25|STALL|us_open|(0.625, 13.23]|(1.451, 16.357]",scen_state,na,0.93,0.299,115
+through,5,station|etype|session|dq|rq,"out_0.25|STALL|us_open|(0.625, 13.23]|(1.451, 16.357]",scen_failed,na,0.93,0.299,115
+through,5,station|etype|cb|session|hayden,out_0.25|STALL|c>=50|us_open|Bull,rq,"(1.451, 16.357]",0.929,0.299,113
+through,5,station|zone|wknd|hayden|yd_arch,beyond_1.0|12|False|Bull|UP,dtype,na,0.929,0.299,113
+through,5,station|zone|wknd|hayden|yd_arch,beyond_1.0|12|False|Bull|UP,lean,na,0.929,0.299,113
+through,5,station|zone|wknd|hayden|yd_arch,beyond_1.0|12|False|Bull|UP,scen_state,na,0.929,0.299,113
+through,5,station|zone|wknd|hayden|yd_arch,beyond_1.0|12|False|Bull|UP,scen_failed,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|dtype,beyond_1.0|12|False|UP|na,lean,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|dtype,beyond_1.0|12|False|UP|na,scen_state,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|dtype,beyond_1.0|12|False|UP|na,scen_failed,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|lean,beyond_1.0|12|False|UP|na,scen_state,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|lean,beyond_1.0|12|False|UP|na,scen_failed,na,0.929,0.299,113
+through,5,station|zone|wknd|yd_arch|scen_state,beyond_1.0|12|False|UP|na,scen_failed,na,0.929,0.299,113
+through,5,station|zone|hayden|rq|yd_arch,"beyond_1.0|12|Bull|(1.451, 16.357]|UP",dtype,na,0.929,0.299,113
+through,5,station|zone|hayden|rq|yd_arch,"beyond_1.0|12|Bull|(1.451, 16.357]|UP",lean,na,0.929,0.299,113
+through,5,station|zone|hayden|rq|yd_arch,"beyond_1.0|12|Bull|(1.451, 16.357]|UP",scen_state,na,0.929,0.299,113
+through,5,station|zone|hayden|rq|yd_arch,"beyond_1.0|12|Bull|(1.451, 16.357]|UP",scen_failed,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|dtype,"beyond_1.0|12|(1.451, 16.357]|UP|na",lean,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|dtype,"beyond_1.0|12|(1.451, 16.357]|UP|na",scen_state,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|dtype,"beyond_1.0|12|(1.451, 16.357]|UP|na",scen_failed,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|lean,"beyond_1.0|12|(1.451, 16.357]|UP|na",scen_state,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|lean,"beyond_1.0|12|(1.451, 16.357]|UP|na",scen_failed,na,0.929,0.299,113
+through,5,station|zone|rq|yd_arch|scen_state,"beyond_1.0|12|(1.451, 16.357]|UP|na",scen_failed,na,0.929,0.299,113
+through,5,station|zone|btc_pi|rq|yd_arch,"beyond_1.0|12|down|(1.451, 16.357]|UP",dtype,na,0.928,0.299,111
+through,5,station|zone|btc_pi|rq|yd_arch,"beyond_1.0|12|down|(1.451, 16.357]|UP",lean,na,0.928,0.299,111
+through,5,station|zone|btc_pi|rq|yd_arch,"beyond_1.0|12|down|(1.451, 16.357]|UP",scen_state,na,0.928,0.299,111
+through,5,station|zone|btc_pi|rq|yd_arch,"beyond_1.0|12|down|(1.451, 16.357]|UP",scen_failed,na,0.928,0.299,111
+through,5,station|coin|virgin|kq|uq,"out_1.0|XRP|False|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.927,0.299,165
+through,5,station|coin|cb|kq|uq,"out_1.0|XRP|c>=50|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.927,0.299,165
+through,5,station|coin|zone|hayden|yd_arch,beyond_1.0|XRP|10|Bull|UP,dtype,na,0.926,0.299,108
+through,5,station|coin|zone|hayden|yd_arch,beyond_1.0|XRP|10|Bull|UP,lean,na,0.926,0.299,108
+through,5,station|coin|zone|hayden|yd_arch,beyond_1.0|XRP|10|Bull|UP,scen_state,na,0.926,0.299,108
+through,5,station|coin|zone|hayden|yd_arch,beyond_1.0|XRP|10|Bull|UP,scen_failed,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|dtype,beyond_1.0|XRP|10|UP|na,lean,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|dtype,beyond_1.0|XRP|10|UP|na,scen_state,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|dtype,beyond_1.0|XRP|10|UP|na,scen_failed,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|lean,beyond_1.0|XRP|10|UP|na,scen_state,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|lean,beyond_1.0|XRP|10|UP|na,scen_failed,na,0.926,0.299,108
+through,5,station|coin|zone|yd_arch|scen_state,beyond_1.0|XRP|10|UP|na,scen_failed,na,0.926,0.299,108
+through,5,station|coin|zone|virgin|wknd,beyond_1.0|XRP|10|False|False,kq,"(1.753, 17.486]",0.925,0.299,107
+through,5,station|coin|zone|cb|wknd,beyond_1.0|XRP|10|c>=50|False,kq,"(1.753, 17.486]",0.925,0.299,107
+through,5,station|coin|wknd|uq|ob55,"beyond_1.0|ETH|False|(0.21, 0.89]|open_fired",dtype,na,0.925,0.299,106
+through,5,station|coin|wknd|uq|ob55,"beyond_1.0|ETH|False|(0.21, 0.89]|open_fired",lean,na,0.925,0.299,106
+through,5,station|coin|wknd|uq|ob55,"beyond_1.0|ETH|False|(0.21, 0.89]|open_fired",scen_state,na,0.925,0.299,106
+through,5,station|coin|wknd|uq|ob55,"beyond_1.0|ETH|False|(0.21, 0.89]|open_fired",scen_failed,na,0.925,0.299,106
+through,5,station|coin|hayden_btc|kq|uq,"out_1.0|XRP|Bull|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.925,0.299,159
+through,5,station|etype|zone|wknd|dq,"out_0.25|STALL|11|False|(0.625, 13.23]",sq,"(1.207, 65.153]",0.925,0.299,106
+through,5,station|zone|virgin|wknd|yd_arch,beyond_1.0|12|False|False|UP,dtype,na,0.925,0.299,106
+through,5,station|zone|virgin|wknd|yd_arch,beyond_1.0|12|False|False|UP,lean,na,0.925,0.299,106
+through,5,station|zone|virgin|wknd|yd_arch,beyond_1.0|12|False|False|UP,scen_state,na,0.925,0.299,106
+through,5,station|zone|virgin|wknd|yd_arch,beyond_1.0|12|False|False|UP,scen_failed,na,0.925,0.299,106
+through,5,station|zone|virgin|rq|yd_arch,"beyond_1.0|12|False|(1.451, 16.357]|UP",dtype,na,0.925,0.299,106
+through,5,station|zone|virgin|rq|yd_arch,"beyond_1.0|12|False|(1.451, 16.357]|UP",lean,na,0.925,0.299,106
+through,5,station|zone|virgin|rq|yd_arch,"beyond_1.0|12|False|(1.451, 16.357]|UP",scen_state,na,0.925,0.299,106
+through,5,station|zone|virgin|rq|yd_arch,"beyond_1.0|12|False|(1.451, 16.357]|UP",scen_failed,na,0.925,0.299,106
+through,5,station|zone|cb|wknd|yd_arch,beyond_1.0|12|c>=50|False|UP,dtype,na,0.925,0.299,106
+through,5,station|zone|cb|wknd|yd_arch,beyond_1.0|12|c>=50|False|UP,lean,na,0.925,0.299,106
+through,5,station|zone|cb|wknd|yd_arch,beyond_1.0|12|c>=50|False|UP,scen_state,na,0.925,0.299,106
+through,5,station|zone|cb|wknd|yd_arch,beyond_1.0|12|c>=50|False|UP,scen_failed,na,0.925,0.299,106
+through,5,station|zone|cb|rq|yd_arch,"beyond_1.0|12|c>=50|(1.451, 16.357]|UP",dtype,na,0.925,0.299,106
+through,5,station|zone|cb|rq|yd_arch,"beyond_1.0|12|c>=50|(1.451, 16.357]|UP",lean,na,0.925,0.299,106
+through,5,station|zone|cb|rq|yd_arch,"beyond_1.0|12|c>=50|(1.451, 16.357]|UP",scen_state,na,0.925,0.299,106
+through,5,station|zone|cb|rq|yd_arch,"beyond_1.0|12|c>=50|(1.451, 16.357]|UP",scen_failed,na,0.925,0.299,106
+through,5,station|etype|cb|session|rq,"out_0.25|STALL|c>=50|us_open|(1.451, 16.357]",dtype,na,0.922,0.299,103
+through,5,station|etype|cb|session|rq,"out_0.25|STALL|c>=50|us_open|(1.451, 16.357]",lean,na,0.922,0.299,103
+through,5,station|etype|cb|session|rq,"out_0.25|STALL|c>=50|us_open|(1.451, 16.357]",scen_state,na,0.922,0.299,103
+through,5,station|etype|cb|session|rq,"out_0.25|STALL|c>=50|us_open|(1.451, 16.357]",scen_failed,na,0.922,0.299,103
+through,5,station|etype|session|hayden_btc|vq,"out_0.25|STALL|us_open|Bull|(3.795, 183.902]",rq,"(1.451, 16.357]",0.922,0.299,103
+through,5,station|zone|rq|kq|yd_arch,"beyond_1.0|12|(1.451, 16.357]|(1.753, 17.486]|UP",dtype,na,0.922,0.299,103
+through,5,station|zone|rq|kq|yd_arch,"beyond_1.0|12|(1.451, 16.357]|(1.753, 17.486]|UP",lean,na,0.922,0.299,103
+through,5,station|zone|rq|kq|yd_arch,"beyond_1.0|12|(1.451, 16.357]|(1.753, 17.486]|UP",scen_state,na,0.922,0.299,103
+through,5,station|zone|rq|kq|yd_arch,"beyond_1.0|12|(1.451, 16.357]|(1.753, 17.486]|UP",scen_failed,na,0.922,0.299,103
+through,5,station|coin|wknd|kq|uq,"out_1.0|XRP|False|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.921,0.299,151
+through,5,station|coin|zone|virgin|hayden_btc,beyond_1.0|XRP|10|False|Bull,yd_arch,UP,0.92,0.299,100
+through,5,station|coin|zone|cb|hayden_btc,beyond_1.0|XRP|10|c>=50|Bull,yd_arch,UP,0.92,0.299,100
+through,5,station|coin|btc_pi|kq|uq,"out_1.0|XRP|down|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.92,0.299,176
+through,5,station|etype|session|hayden|vq,"out_0.25|STALL|us_open|Bull|(3.795, 183.902]",rq,"(1.451, 16.357]",0.92,0.299,112
+through,5,station|etype|session|sq|rq,"out_0.25|STALL|us_open|(1.207, 65.153]|(1.451, 16.357]",dtype,na,0.919,0.299,111
+through,5,station|etype|session|sq|rq,"out_0.25|STALL|us_open|(1.207, 65.153]|(1.451, 16.357]",lean,na,0.919,0.299,111
+through,5,station|etype|session|sq|rq,"out_0.25|STALL|us_open|(1.207, 65.153]|(1.451, 16.357]",scen_state,na,0.919,0.299,111
+through,5,station|etype|session|sq|rq,"out_0.25|STALL|us_open|(1.207, 65.153]|(1.451, 16.357]",scen_failed,na,0.919,0.299,111
+through,5,station|etype|session|btc_pi|rq,"out_0.25|STALL|us_open|down|(1.451, 16.357]",dtype,na,0.917,0.299,120
+through,5,station|etype|session|btc_pi|rq,"out_0.25|STALL|us_open|down|(1.451, 16.357]",lean,na,0.917,0.299,120
+through,5,station|etype|session|btc_pi|rq,"out_0.25|STALL|us_open|down|(1.451, 16.357]",scen_state,na,0.917,0.299,120
+through,5,station|etype|session|btc_pi|rq,"out_0.25|STALL|us_open|down|(1.451, 16.357]",scen_failed,na,0.917,0.299,120
+through,5,station|etype|session|vq|rq,"out_0.25|STALL|us_open|(3.795, 183.902]|(1.451, 16.357]",dtype,na,0.917,0.299,109
+through,5,station|etype|session|vq|rq,"out_0.25|STALL|us_open|(3.795, 183.902]|(1.451, 16.357]",lean,na,0.917,0.299,109
+through,5,station|etype|session|vq|rq,"out_0.25|STALL|us_open|(3.795, 183.902]|(1.451, 16.357]",scen_state,na,0.917,0.299,109
+through,5,station|etype|session|vq|rq,"out_0.25|STALL|us_open|(3.795, 183.902]|(1.451, 16.357]",scen_failed,na,0.917,0.299,109
+through,5,station|coin|vq|kq|uq,"out_1.0|XRP|(3.795, 183.902]|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.916,0.299,155
+through,5,station|coin|kq|uq|yd_arch,"out_1.0|XRP|(1.753, 17.486]|(-0.297, -0.037]|UP",ob55,na,0.916,0.299,131
+through,5,station|coin|wq|hayden_btc|uq,"beyond_0.5|XRP|(-0.001, 0.0521]|Chop|(-2.577, -0.297]",ob55,open,0.915,0.299,106
+through,5,station|coin|dq|rq|kq,"beyond_1.0|XRP|(0.625, 13.23]|(1.451, 16.357]|(1.753, 17.486]",yd_arch,UP,0.915,0.299,176
+through,5,station|coin|dq|kq|uq,"out_1.0|XRP|(0.625, 13.23]|(1.753, 17.486]|(-0.297, -0.037]",yd_arch,UP,0.915,0.299,117
+through,5,station|etype|session|hayden|hayden_btc,out_0.25|STALL|us_open|Bull|Bull,rq,"(1.451, 16.357]",0.915,0.299,118
+through,5,station|etype|session|hayden|sq,"out_0.25|STALL|us_open|Bull|(1.207, 65.153]",rq,"(1.451, 16.357]",0.915,0.299,117
+through,5,station|etype|session|hayden_btc|dq,"out_0.25|STALL|us_open|Bull|(0.625, 13.23]",rq,"(1.451, 16.357]",0.915,0.299,106
+through,5,station|coin|zone|hayden|btc_pi,beyond_1.0|XRP|10|Bull|down,yd_arch,UP,0.914,0.299,105
+through,5,station|coin|tn|rq|kq,"beyond_1.0|XRP|t3+|(1.451, 16.357]|(1.753, 17.486]",yd_arch,UP,0.913,0.299,208
+through,5,station|etype|session|rq|dtype,"out_0.25|STALL|us_open|(1.451, 16.357]|na",lean,na,0.913,0.299,126
+through,5,station|etype|session|rq|dtype,"out_0.25|STALL|us_open|(1.451, 16.357]|na",scen_state,na,0.913,0.299,126
+through,5,station|etype|session|rq|dtype,"out_0.25|STALL|us_open|(1.451, 16.357]|na",scen_failed,na,0.913,0.299,126
+through,5,station|etype|session|rq|lean,"out_0.25|STALL|us_open|(1.451, 16.357]|na",scen_state,na,0.913,0.299,126
+through,5,station|etype|session|rq|lean,"out_0.25|STALL|us_open|(1.451, 16.357]|na",scen_failed,na,0.913,0.299,126
+through,5,station|etype|session|rq|scen_state,"out_0.25|STALL|us_open|(1.451, 16.357]|na",scen_failed,na,0.913,0.299,126
+through,5,station|zone|wknd|hayden|dq,"beyond_1.0|10|False|Bull|(0.625, 13.23]",yd_arch,UP,0.913,0.299,104
+through,5,station|wq|hayden_btc|tn|kq,"beyond_1.0|(0.0521, 0.295]|Bull|t3+|(1.753, 17.486]",uq,"(-0.297, -0.037]",0.913,0.299,104
+through,5,station|coin|cb|rq|kq,"beyond_1.0|XRP|c>=50|(1.451, 16.357]|(1.753, 17.486]",yd_arch,UP,0.912,0.299,260
+through,5,station|coin|sq|kq|yd_arch,"beyond_1.0|XRP|(1.207, 65.153]|(1.753, 17.486]|UP",dtype,na,0.912,0.299,226
+through,5,station|coin|sq|kq|yd_arch,"beyond_1.0|XRP|(1.207, 65.153]|(1.753, 17.486]|UP",lean,na,0.912,0.299,226
+through,5,station|coin|sq|kq|yd_arch,"beyond_1.0|XRP|(1.207, 65.153]|(1.753, 17.486]|UP",scen_state,na,0.912,0.299,226
+through,5,station|coin|sq|kq|yd_arch,"beyond_1.0|XRP|(1.207, 65.153]|(1.753, 17.486]|UP",scen_failed,na,0.912,0.299,226
+through,5,station|coin|vq|rq|kq,"beyond_1.0|XRP|(3.795, 183.902]|(1.451, 16.357]|(1.753, 17.486]",yd_arch,UP,0.912,0.299,260
+through,5,station|coin|kq|uq|yd_arch,"out_1.0|XRP|(1.753, 17.486]|(-0.297, -0.037]|UP",dtype,na,0.912,0.299,159
+through,5,station|coin|kq|uq|yd_arch,"out_1.0|XRP|(1.753, 17.486]|(-0.297, -0.037]|UP",lean,na,0.912,0.299,159
+through,5,station|coin|kq|uq|yd_arch,"out_1.0|XRP|(1.753, 17.486]|(-0.297, -0.037]|UP",scen_state,na,0.912,0.299,159
+through,5,station|coin|kq|uq|yd_arch,"out_1.0|XRP|(1.753, 17.486]|(-0.297, -0.037]|UP",scen_failed,na,0.912,0.299,159
+through,5,station|etype|virgin|session|hayden,out_0.25|STALL|False|us_open|Bull,rq,"(1.451, 16.357]",0.912,0.299,137
+through,5,station|zone|hayden_btc|origin|ob55,beyond_0.5|12|Bull|air|open_fired,dtype,na,0.912,0.299,113
+through,5,station|zone|hayden_btc|origin|ob55,beyond_0.5|12|Bull|air|open_fired,lean,na,0.912,0.299,113
+through,5,station|zone|hayden_btc|origin|ob55,beyond_0.5|12|Bull|air|open_fired,scen_state,na,0.912,0.299,113
+through,5,station|zone|hayden_btc|origin|ob55,beyond_0.5|12|Bull|air|open_fired,scen_failed,na,0.912,0.299,113
+through,5,station|coin|wq|hayden_btc|sq,"beyond_1.0|XRP|(-0.001, 0.0521]|Chop|(1.207, 65.153]",kq,"(1.753, 17.486]",0.911,0.299,101
+through,5,station|etype|session|hayden|btc_pi,out_0.25|STALL|us_open|Bull|down,rq,"(1.451, 16.357]",0.911,0.299,135
+through,5,station|etype|session|hayden|dq,"out_0.25|STALL|us_open|Bull|(0.625, 13.23]",rq,"(1.451, 16.357]",0.911,0.299,124
+through,5,station|zone|wq|btc_pi|vq,"beyond_1.0|10|(-0.001, 0.0521]|down|(3.795, 183.902]",yd_arch,UP,0.911,0.299,101
+through,5,station|zone|hayden_btc|origin|rq,"beyond_0.5|12|Bull|air|(1.451, 16.357]",yd_arch,UP,0.911,0.299,112
+through,5,station|wq|vq|kq|uq,"beyond_0.5|(0.0521, 0.295]|(3.795, 183.902]|(1.753, 17.486]|(-0.297, -0.037]",ob55,na,0.911,0.299,101
+through,5,station|coin|cb|origin|vq,"beyond_1.0|XRP|c<30|air|(3.795, 183.902]",kq,"(1.753, 17.486]",0.91,0.299,100
+through,5,station|etype|virgin|session|hayden_btc,out_0.25|STALL|False|us_open|Bull,rq,"(1.451, 16.357]",0.91,0.299,122
+through,5,station|zone|hayden|vq|rq,"beyond_1.0|12|Bull|(3.795, 183.902]|(1.451, 16.357]",yd_arch,UP,0.91,0.299,100
+through,5,station|cb|wq|dq|kq,"beyond_1.0|c>=50|(0.0521, 0.295]|(0.625, 13.23]|(1.753, 17.486]",yd_arch,UP,0.91,0.299,122
+through,5,station|cb|hayden_btc|rq|uq,"beyond_1.0|c>=50|Chop|(1.451, 16.357]|(-2.577, -0.297]",yd_arch,CHOP,0.91,0.299,111
+through,5,station|coin|zone|btc_pi|vq,"beyond_1.0|XRP|12|down|(3.795, 183.902]",dtype,na,0.909,0.299,110
+through,5,station|coin|zone|btc_pi|vq,"beyond_1.0|XRP|12|down|(3.795, 183.902]",lean,na,0.909,0.299,110
+through,5,station|coin|zone|btc_pi|vq,"beyond_1.0|XRP|12|down|(3.795, 183.902]",scen_state,na,0.909,0.299,110
+through,5,station|coin|zone|btc_pi|vq,"beyond_1.0|XRP|12|down|(3.795, 183.902]",scen_failed,na,0.909,0.299,110
+through,5,station|coin|rq|yd_arch|ob55,"beyond_1.0|XRP|(1.451, 16.357]|UP|open_fired",dtype,na,0.909,0.299,143
+through,5,station|coin|rq|yd_arch|ob55,"beyond_1.0|XRP|(1.451, 16.357]|UP|open_fired",lean,na,0.909,0.299,143
