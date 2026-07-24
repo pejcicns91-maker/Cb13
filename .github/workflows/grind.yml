@@ -61,3 +61,9 @@ jobs:
           git commit -m "w2 chunk [skip ci]" || echo "nothing to commit"
           git pull --rebase || true
           git push
+      - name: counts artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: w2-counts-${{ github.run_number }}
+          path: w2_counts
+          retention-days: 90
