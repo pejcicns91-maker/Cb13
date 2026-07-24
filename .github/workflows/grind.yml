@@ -2,11 +2,21 @@ name: grind
 on:
   workflow_dispatch:
     inputs:
-      task: {description: "grind | finalize | b5", default: "grind"}
-      budget_minutes: {description: "minutes this run", default: "230"}
-      b4: {description: "include t2 d4 phase (0/1)", default: "0"}
-permissions: {contents: write}
-concurrency: {group: run-${{ github.event.inputs.task }}, cancel-in-progress: false}
+      task:
+        description: task
+        default: grind
+      budget_minutes:
+        description: minutes
+        default: "330"
+      b4:
+        description: include t2 d4
+        default: "false"
+permissions:
+  contents: write
+concurrency:
+  group: grind-run
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
