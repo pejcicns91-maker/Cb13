@@ -1,0 +1,58 @@
+name: grind
+on:
+  workflow_dispatch:
+    inputs:
+      task: {description: "grind | finalize | b5", default: "grind"}
+      budget_minutes: {description: "minutes this run", default: "230"}
+      b4: {description: "include t2 d4 phase (0/1)", default: "0"}
+permissions: {contents: write}
+concurrency: {group: run-${{ github.event.inputs.task }}, cancel-in-progress: false}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: unzip bundle
+        run: unzip -o gha_bundle.zip
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy scikit-learn requests
+      - name: cache wide table
+        uses: actions/cache@v4
+        with:
+          path: |
+            bf_vantage_ALL_wide.parquet
+            bf_vantage_ALL_mf.parquet
+          key: wide-v1
+      - name: build wide table if missing
+        run: |
+          if [ ! -f bf_vantage_ALL_wide.parquet ]; then
+            mkdir -p data
+            python fetch_arch.py BTCUSDT 2017 8
+            python fetch_arch.py ETHUSDT 2017 8
+            python fetch_arch.py SOLUSDT 2020 8
+            python fetch_arch.py XRPUSDT 2018 5
+            python b1t2_mf.py
+            python b_join.py
+          fi
+      - name: task
+        run: |
+          case "${{ github.event.inputs.task }}" in
+            finalize) python grind1.py --finalize 1 --b4 ${{ github.event.inputs.b4 }} ;;
+            b5)       python b5.py --budget-min ${{ github.event.inputs.budget_minutes }} ;;
+            *)        python grind1.py --budget-min ${{ github.event.inputs.budget_minutes }} --b4 ${{ github.event.inputs.b4 }} ;;
+          esac
+      - name: commit results
+        run: |
+          git config user.name "grind-bot"; git config user.email "bot@none"
+          for p in gha_state.json out_counts out_register w1_digest.csv w1_extinction.csv b5_state.json b5_scores.csv; do
+            [ -e "$p" ] && git add "$p"
+          done
+          git commit -m "chunk [skip ci]" || echo "nothing to commit"
+          git pull --rebase || true
+          git push
+      - name: artifact (b4 counts)
+        if: ${{ github.event.inputs.b4 == '1' }}
+        uses: actions/upload-artifact@v4
+        with: {name: b4-counts-${{ github.run_number }}, path: out_counts, retention-days: 90}
