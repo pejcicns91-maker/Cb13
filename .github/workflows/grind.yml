@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: unzip bundle
-        run: unzip -o gha bundle.zip
+        run: unzip -o "gha bundle.zip"
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy scikit-learn requests
