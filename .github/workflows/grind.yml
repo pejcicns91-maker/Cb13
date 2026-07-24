@@ -1,10 +1,12 @@
 name: grind
 on:
   workflow_dispatch:
+    inputs:
+      budget_minutes: {description: "minutes this run", default: "330"}
 permissions: {contents: write}
-concurrency: {group: grind, cancel-in-progress: false}
+concurrency: {group: w2, cancel-in-progress: false}
 jobs:
-  run:
+  w2:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
@@ -14,13 +16,20 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy requests
-      - name: cache wide table
+      - name: cache tables
         uses: actions/cache@v4
         with:
           path: |
             bf_vantage_ALL_wide.parquet
             bf_vantage_ALL_mf.parquet
-          key: wide-v1
+            bf_w2cols.parquet
+            w2part_BTC.parquet
+            w2part_ETH.parquet
+            w2part_SOL.parquet
+            w2part_XRP.parquet
+            w2_counts
+          key: w2-v1-${{ github.run_number }}
+          restore-keys: w2-v1-
       - name: build wide table if missing
         run: |
           if [ ! -f bf_vantage_ALL_wide.parquet ]; then
@@ -32,14 +41,26 @@ jobs:
             python b1t2_mf.py
             python b_join.py
           fi
-      - name: task
-        run: python grind1.py --finalize 1 --b4 0
+      - name: raw data for extraction
+        run: |
+          if [ ! -f data/BTCUSDT_5m.csv ]; then
+            mkdir -p data
+            python fetch_arch.py BTCUSDT 2017 8
+            python fetch_arch.py ETHUSDT 2017 8
+            python fetch_arch.py SOLUSDT 2020 8
+            python fetch_arch.py XRPUSDT 2018 5
+          fi
+      - name: w2
+        run: python w2.py --budget-min ${{ github.event.inputs.budget_minutes }}
       - name: commit results
         run: |
           git config user.name "grind-bot"; git config user.email "bot@none"
-          for p in w1_digest.csv w1_extinction.csv w1_summary.csv; do
+          for p in w2_state.json w2_digest.csv w2_extinction.csv w2_summary.csv; do
             [ -e "$p" ] && git add "$p"
           done
-          git commit -m "finalize [skip ci]" || echo "nothing to commit"
+          git commit -m "w2 chunk [skip ci]" || echo "nothing to commit"
           git pull --rebase || true
           git push
+      - name: counts artifact
+        uses: actions/upload-artifact@v4
+        with: {name: w2-counts-${{ github.run_number }}, path: w2_counts, retention-days: 90}
