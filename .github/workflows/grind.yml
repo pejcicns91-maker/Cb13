@@ -62,6 +62,3 @@ jobs:
           git commit -m "chunk [skip ci]" || echo "nothing to commit"
           git pull --rebase || true
           git push
-
-        if: ${{ github.event.inputs.b4 == '1' }}        uses: actions/upload-artifact@v4
-        with: {name: b4-counts-${{ github.run_number }}, path: out_counts, retention-days: 90}
