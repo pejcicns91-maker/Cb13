@@ -2,7 +2,7 @@ name: grind
 on:
   workflow_dispatch:
     inputs:
-      budget_minutes: {description: "minutes this run", default: "330"}
+      budget_minutes: {description: "minutes this run", default: "280"}
 permissions: {contents: write}
 concurrency: {group: w2, cancel-in-progress: false}
 jobs:
@@ -53,15 +53,18 @@ jobs:
       - name: w2
         run: python w2.py --budget-min ${{ github.event.inputs.budget_minutes }}
       - name: commit results
+        if: always()
         run: |
           git config user.name "grind-bot"; git config user.email "bot@none"
-          for p in w2_state.json w2_digest.csv w2_extinction.csv w2_summary.csv; do
-            [ -e "$p" ] && git add "$p"
+          if [ -e w2_state.json ]; then git add w2_state.json; fi
+          for p in w2_digest.csv w2_extinction.csv w2_summary.csv; do
+            if [ -e "$p" ]; then git add "$p"; fi
           done
           git commit -m "w2 chunk [skip ci]" || echo "nothing to commit"
           git pull --rebase || true
-          git push
+          git push || true
       - name: counts artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: w2-counts-${{ github.run_number }}
