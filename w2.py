@@ -381,7 +381,11 @@ if ST["phase"] in ("L1","L2","L3"):
     ring=int(ST["phase"][1])
     combos=[(ring,c) for c in combinations(range(len(FE)),ring) if set(c)&NEW]
     print(ST["phase"],"combos",len(combos),flush=True)
-    cur=ST["cursor"]; BLOCK=200; t0=time.time(); skipped=[]
+    BLOCK=200
+    done_tags=[int(f.rsplit('_',1)[1].split('.')[0]) for f in glob.glob(f"{OUT}/cnt_r{ring}_*.parquet")]
+    cur=(max(done_tags)+BLOCK) if done_tags else 0          # counts-on-disk are the only truth
+    if cur!=ST.get("cursor",0): print(f"resume from counts: {cur} (state said {ST.get('cursor',0)})",flush=True)
+    t0=time.time(); skipped=[]
     while cur<len(combos) and (time.time()-t0)/60<A.budget_min:
         rows=[];ext=[]
         for depth,combo in combos[cur:cur+BLOCK]:
@@ -416,6 +420,14 @@ if ST["phase"]=="finalize":
     V2=pd.read_parquet("bf_w2cols.parquet",columns=['b50','fastres'])
     bases={'bounce':float(((Vw.fwd_favU>=0.25)&(Vw.fwd_advU<0.25)).mean()),'through':float((Vw.fwd_advU>=0.6).mean()),
            'b50':float(V2.b50.mean()),'fastres':float(V2.fastres.mean())}; del Vw,V2
+    exp={1:0,2:0,3:0}
+    from itertools import combinations as _cmb
+    for k in (1,2,3): exp[k]=sum(1 for c in _cmb(range(165),k) if set(c)&set(range(60,165)))
+    E0=pd.concat([pd.read_parquet(p,columns=['depth']) for p in sorted(glob.glob(f"{OUT}/ext_*.parquet"))],ignore_index=True)
+    cov=E0.depth.value_counts().to_dict()
+    need={1:105,2:11760,3:700910}
+    for k,v in need.items():
+        assert cov.get(k,0)>=v, f"finalize refused: ring L{k} coverage {cov.get(k,0)}/{v} — regrind first"
     parts=sorted(glob.glob(f"{OUT}/cnt_*.parquet"))
     N=pd.concat([pd.read_parquet(p,columns=['depth','kb','kt','k5','kf','n']) for p in parts],ignore_index=True)
     n_=N.n.to_numpy(np.int64); dep=N.depth.to_numpy(np.int8)
@@ -434,7 +446,9 @@ if ST["phase"]=="finalize":
     digest=[]; summary=[]
     cert={}
     for fam in Ks:
-        p=pvec(Ks[fam],n_,bases[fam]); cert[fam]=bh(p)
+        p=pvec(Ks[fam].astype(np.int64),n_.astype(np.int64),bases[fam])
+        cert[fam]=bh(p); del p
+        print("finalize:",fam,"p+BH done",flush=True)
         for d in sorted(set(dep.tolist())):
             m=dep==d; summary.append(dict(family=fam,depth=int(d),cells=int(m.sum()),cert=int(cert[fam][m].sum())))
     off=0
