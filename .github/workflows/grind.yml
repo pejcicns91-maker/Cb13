@@ -25,8 +25,9 @@ jobs:
             w2part_ETH.parquet
             w2part_SOL.parquet
             w2part_XRP.parquet
-          key: w2-v2-${{ github.run_number }}
-          restore-keys: w2-v2-
+            w2_counts
+          key: w2-v1-${{ github.run_number }}
+          restore-keys: w2-v1-
       - name: build wide table if missing
         run: |
           if [ ! -f bf_vantage_ALL_wide.parquet ]; then
