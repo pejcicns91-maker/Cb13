@@ -1,0 +1,62 @@
+name: b5w2
+on:
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: {group: b5w2, cancel-in-progress: false}
+jobs:
+  b5w2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: unzip bundle
+        run: unzip -n "gha bundle.zip"
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q "pandas==3.0.2" numpy pyarrow scipy scikit-learn requests
+      - name: cache tables
+        uses: actions/cache@v4
+        with:
+          path: |
+            bf_vantage_ALL_wide.parquet
+            bf_vantage_ALL_mf.parquet
+            bf_w2cols.parquet
+            b5w2_cache.npz
+          key: b5w2-v2-${{ github.run_number }}
+          restore-keys: b5w2-v2-
+      - name: build wide table if missing
+        run: |
+          if [ ! -f bf_vantage_ALL_wide.parquet ]; then
+            mkdir -p data
+            python fetch_arch.py BTCUSDT 2017 8
+            python fetch_arch.py ETHUSDT 2017 8
+            python fetch_arch.py SOLUSDT 2020 8
+            python fetch_arch.py XRPUSDT 2018 5
+            python b1t2_mf.py
+            python b_join.py
+          fi
+      - name: build w2 cols if missing
+        run: |
+          if [ ! -f bf_w2cols.parquet ]; then
+            echo '{"phase": "extract", "cursor": 0}' > w2_state.json
+            python w2.py --coin BTC
+            python w2.py --coin ETH
+            python w2.py --coin SOL
+            python w2.py --coin XRP
+            echo '{"phase": "extract", "cursor": 0}' > w2_state.json
+            python w2.py --sample-only 1
+          fi
+      - name: lineage gate
+        run: python -c "import pandas as pd; P=pd.read_parquet('bf_w2cols.parquet'); c=list(P.columns); b=P.b50.mean(); f=P.fastres.mean(); print('cols',len(c),'b50',round(b,10),'fastres',round(f,10)); assert 'psw_5m' in c and not any(x.startswith('w2_') for x in c) and 100<=len(c)<=140, 'PROVENANCE FAIL'; assert abs(b-0.19299151024648994)<1e-9 and abs(f-0.5395282786717158)<1e-9, 'LINEAGE FAIL'; print('lineage gate PASS')"
+      - name: b5w2 slice loop
+        if: always()
+        run: |
+          git config user.name "b5w2-bot" || true
+          git config user.email "bot@none" || true
+          for i in 1 2 3 4 5 6 7 8 9; do
+            python b5w2.py --budget-min 26 || true
+            git add b5w2_state.json b5w2_scores.csv || true
+            git commit -m "b5w2 slice [skip ci]" || true
+            git pull --rebase || true
+            git push || true
+          done
